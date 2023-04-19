@@ -1,0 +1,50 @@
+{
+    "1681927092085350:325738": {
+        "IResourceController": {
+            "name": "Scaniverse 2023-04-18 141215",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1681927094734240:327021",
+            "publicId": "1681927094919349:327103",
+            "expected_hash": "5b23d629132b5f97e2dec34f81f27427",
+            "resources": [
+                "1681927094331874:326729",
+                "1681927094367126:326758",
+                "1681927094699659:326978"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "main",
+                        "v": "1681927094368194:326761"
+                    }
+                ]
+            }
+        }
+    },
+    "1681927094734240:327021": {
+        "IFileManager": {
+            "path": "Files/File_1681927094734240_327021.fbx"
+        }
+    },
+    "1681927094919349:327103": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/Scaniverse 2023-04-18 141215.fbx",
+                "hash": "5b23d629132b5f97e2dec34f81f27427"
+            }
+        }
+    }
+}

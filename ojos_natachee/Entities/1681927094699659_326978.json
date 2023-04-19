@@ -1,0 +1,30 @@
+{
+    "1681927094699659:326978": {
+        "IResourceController": {
+            "name": "Scaniverse 2023-04-18 141215",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1681927094699593:326962",
+            "fileId": "1681927094731882:327011",
+            "originalId": "1681927499911212:534877",
+            "expected_hash": "f0c6efbd40abc0562f637f00dbf145c4"
+        },
+        "IResourceManager": {
+            "uid": "1681927094699593:326962",
+            "name": "Scaniverse 2023-04-18 141215",
+            "flags": 0
+        }
+    },
+    "1681927094731882:327011": {
+        "IFileManager": {
+            "path": "Files/File_1681927094731882_327011.oprfb"
+        }
+    },
+    "1681927499911212:534877": {
+        "IFileManager": {
+            "path": "Files/File_1681927499911212_534877.oprfb"
+        }
+    }
+}

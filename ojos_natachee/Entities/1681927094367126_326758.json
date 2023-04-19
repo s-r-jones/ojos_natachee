@@ -1,0 +1,23 @@
+{
+    "1681927094367126:326758": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1681927094995929:327334",
+            "resources": [
+                "1681927094368191:326760",
+                "1681927138804095:350290"
+            ]
+        }
+    },
+    "1681927094995929:327334": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/Scaniverse 2023-04-18 141215/Materials"
+            }
+        }
+    }
+}

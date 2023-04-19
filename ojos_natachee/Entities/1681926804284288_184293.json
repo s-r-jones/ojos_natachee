@@ -1,0 +1,20 @@
+{
+    "1681926804284288:184293": {
+        "IResourceController": {
+            "name": "image_markers",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1681926804284608:184294",
+            "resources": []
+        }
+    },
+    "1681926804284608:184294": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/image_markers"
+            }
+        }
+    }
+}

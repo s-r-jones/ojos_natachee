@@ -1,0 +1,76 @@
+{
+    "1681927094331891:326730": {
+        "IFileManager": {
+            "path": "Files/File_1681927094331891_326730.mesh"
+        }
+    },
+    "1681927094332784:326731": {
+        "IResourceController": {
+            "name": "mesh",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1681927094362371:326746",
+            "fileId": "1681927094331891:326730",
+            "expected_hash": "60f70313bd4667d4087e73f6945f67fe",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1681927094362371:326746",
+            "name": "Files/File_1681927094331891_326730.mesh",
+            "flags": 1
+        }
+    },
+    "1681927094362371:326746": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "3734148",
+                "compressedSize": "2467391",
+                "extension": "mesh",
+                "originalRAM": "3734148",
+                "originalSize": "2467391",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1681927094814543:327059"
+        }
+    },
+    "1681927094814543:327059": {
+        "IFileManager": {
+            "path": "Files/File_1681927094814543_327059.mesh"
+        }
+    }
+}

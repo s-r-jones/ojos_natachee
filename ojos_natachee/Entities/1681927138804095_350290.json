@@ -1,0 +1,91 @@
+{
+    "1681927138802995:350289": {
+        "IFileManager": {
+            "path": "Files/File_1681927138802995_350289.pvr"
+        }
+    },
+    "1681927138804095:350290": {
+        "IResourceController": {
+            "name": "texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681927138805095:350291",
+            "fileId": "1681927138802995:350289",
+            "originalId": "1681927138805757:350296",
+            "publicId": "1681927138872237:350332",
+            "expected_hash": "1c0b4c4de9f6cf25a127fdd7cfad70e0",
+            "additional": {
+                "originHash": "177a6b41e22f79379222024e771a779c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1681927138805095:350291",
+            "name": "Files/File_1681927138802995_350289.jpg",
+            "flags": 1
+        }
+    },
+    "1681927138805095:350291": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "423fe4e909e45afb603697604e9455e4"
+                    },
+                    "v": "1681927139947876:352631"
+                },
+                {
+                    "k": {
+                        "settings_hash": "3073",
+                        "uncompressed_hash": "423fe4e909e45afb603697604e9455e4"
+                    },
+                    "v": "1681927461507219:516262"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "1271831",
+                "extension": "jpg",
+                "originalRAM": "16777216",
+                "originalSize": "681982",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1681927138850407:350319"
+        }
+    },
+    "1681927138805757:350296": {
+        "IFileManager": {
+            "path": "Files/File_1681927138805757_350296.jpg"
+        }
+    },
+    "1681927138850407:350319": {
+        "IFileManager": {
+            "path": "Files/File_1681927138850407_350319.jpg"
+        }
+    },
+    "1681927138872237:350332": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/Scaniverse 2023-04-18 141215/Materials/texture.jpg",
+                "hash": "177a6b41e22f79379222024e771a779c"
+            }
+        }
+    },
+    "1681927139947876:352631": {
+        "IFileManager": {
+            "path": "Files/File_1681927139947876_352631.jpg"
+        }
+    },
+    "1681927461507219:516262": {
+        "IFileManager": {
+            "path": "Files/File_1681927461507219_516262.pvr"
+        }
+    }
+}
