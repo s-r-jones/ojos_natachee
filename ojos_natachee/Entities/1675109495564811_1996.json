@@ -10,7 +10,7 @@
             "fileId": "1675109495564913:2057",
             "originalId": "1675109495564914:2058",
             "publicId": "1675109495565036:2128",
-            "expected_hash": "f9ad7b5032102301a76b8d1e3ee29fe3"
+            "expected_hash": "537ba2cdd5b786be8779e37bec098426"
         },
         "IResourceManager": {
             "uid": "1644867147579537:213107",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Meshes/Balloon [DELETE_ME]/Materials/baloon_sleep.lsmat",
-                "hash": "caf890a8e36189e945ff9a0879e07a5c"
+                "hash": "257bcc510ea4821c6d534c2253575e7f"
             }
         }
     }

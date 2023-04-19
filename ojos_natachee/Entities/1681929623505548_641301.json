@@ -1,0 +1,21 @@
+{
+    "1681929623505262:641298": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Materials/face_awake 2/pass0/desktop/glsl120",
+                "hash": "2ed51057f3fcf0daf2f45089eb67c72e"
+            }
+        }
+    },
+    "1681929623505548:641301": {
+        "IResourceController": {
+            "name": "glsl120",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1681929623505262:641298",
+            "resources": []
+        }
+    }
+}

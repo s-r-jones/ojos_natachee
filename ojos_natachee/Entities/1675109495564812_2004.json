@@ -10,7 +10,7 @@
             "fileId": "1675109495564954:2082",
             "originalId": "1675109495564955:2083",
             "publicId": "1675109495565045:2137",
-            "expected_hash": "4ee5fb19cb593e3db8b430f0f8ebdeb8"
+            "expected_hash": "0ce37f56a6020a57953c038a91ca0da4"
         },
         "IResourceManager": {
             "uid": "1646330400822335:14022975",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Materials/location_mesh_material.lsmat",
-                "hash": "961e31870a7e31af1323bf7aa57456cd"
+                "hash": "64fe09b809c59a84730713312970f7bc"
             }
         }
     }

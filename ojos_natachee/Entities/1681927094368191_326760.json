@@ -15,7 +15,7 @@
             "fileId": "1681927094367439:326759",
             "originalId": "1681927094399114:326778",
             "publicId": "1681927094996345:327338",
-            "expected_hash": "790aa3dd572e934352c33b922aa40c34"
+            "expected_hash": "32f6f90f26573da8e62d078f952b8bc0"
         },
         "IResourceManager": {
             "uid": "1681927094368194:326761",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "../AdditionalFiles/Assets/models/Scaniverse 2023-04-18 141215/Materials/main.lsmat",
-                "hash": "6b974eaf42557308c81a72150b9b7cc6"
+                "hash": "a1e0dc10005f99ac7ce4e430d8d36cf7"
             }
         }
     }

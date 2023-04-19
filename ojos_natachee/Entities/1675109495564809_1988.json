@@ -10,7 +10,7 @@
             "fileId": "1675109495564892:2044",
             "originalId": "1675109495564894:2045",
             "publicId": "1675109495565031:2121",
-            "expected_hash": "f9ad7b5032102301a76b8d1e3ee29fe3",
+            "expected_hash": "537ba2cdd5b786be8779e37bec098426",
             "additional": {
                 "isUnpackedInPublic": "false"
             }
@@ -35,7 +35,7 @@
         "IResourceController": {
             "public": {
                 "path": "Meshes/Balloon [DELETE_ME]/Materials/baloon.lsmat",
-                "hash": "0b169ed24961ca6cad0a5096a5c9dad6"
+                "hash": "2ba34172f1e68bfea74537cd5d11bb96"
             }
         }
     }

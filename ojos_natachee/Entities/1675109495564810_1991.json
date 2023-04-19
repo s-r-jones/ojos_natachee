@@ -10,7 +10,7 @@
             "fileId": "1675109495564902:2050",
             "originalId": "1675109495564904:2051",
             "publicId": "1675109495565033:2124",
-            "expected_hash": "893356b3df3e3e163ca036cb9519d989"
+            "expected_hash": "bfabb3e51c49a2c0befd0b39f9b59210"
         },
         "IResourceManager": {
             "uid": "1644360372249950:332565",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Materials/segmentation_material.lsmat",
-                "hash": "c0469e8651ce81a92853c8171895ce0e"
+                "hash": "82d767329984e9a2653cee1370ad1c2e"
             }
         }
     }

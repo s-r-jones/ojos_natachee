@@ -10,7 +10,7 @@
             "fileId": "1675109495564858:2025",
             "originalId": "1675109495564860:2026",
             "publicId": "1675109495565020:2108",
-            "expected_hash": "fcb45aa4efcff41254630d8888fac3e4",
+            "expected_hash": "bb65015ad7c637a5c970e47a9d722eae",
             "additional": {
                 "isUnpackedInPublic": "false"
             }
@@ -35,7 +35,7 @@
         "IResourceController": {
             "public": {
                 "path": "Materials/Hint Materials/loading_ring.lsmat",
-                "hash": "0ba82290aa9adf255a139dd4c5d05914"
+                "hash": "07ad0333838f8b1f6a3c03dc95230b91"
             }
         }
     }

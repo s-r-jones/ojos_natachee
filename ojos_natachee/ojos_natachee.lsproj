@@ -50,8 +50,10 @@
             ],
             "lens": "Ojos Natachee",
             "applicability": "2",
-            "lens_descriptors": "",
-            "sg": "false",
+            "lens_descriptors": [
+                "EXPERIMENTAL_API"
+            ],
+            "sg": "true",
             "git_friendly": "true",
             "Spectacles2021UseAllowed": "false"
         },

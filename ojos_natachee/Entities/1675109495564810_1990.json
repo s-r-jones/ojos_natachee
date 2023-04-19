@@ -10,7 +10,7 @@
             "fileId": "1675109495564899:2048",
             "originalId": "1675109495564901:2049",
             "publicId": "1675109495565032:2123",
-            "expected_hash": "9c71ef49671edffb7d6ae8242fcdf708",
+            "expected_hash": "7c81afd6179746421c6e6536a1882bbd",
             "additional": {
                 "isUnpackedInPublic": "false"
             }
@@ -35,7 +35,7 @@
         "IResourceController": {
             "public": {
                 "path": "Meshes/Balloon [DELETE_ME]/Materials/face_awake.lsmat",
-                "hash": "374324865d32c795888122ecb8838ce7"
+                "hash": "6723d324cfb9575ed72c2df92d03694f"
             }
         }
     }

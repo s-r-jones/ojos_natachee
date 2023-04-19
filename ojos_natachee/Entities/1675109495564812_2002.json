@@ -10,7 +10,7 @@
             "fileId": "1675109495564945:2076",
             "originalId": "1675109495564947:2077",
             "publicId": "1675109495565042:2135",
-            "expected_hash": "7dd11bf5aca3aaa2f5b0180e05e528d8"
+            "expected_hash": "8186f1cfadb034dbbfced0ebb37a4fda"
         },
         "IResourceManager": {
             "uid": "1645817614843558:46753",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Materials/occluder.lsmat",
-                "hash": "4c78b7ac22356ba183bae3939d7197d1"
+                "hash": "4134b2fc7e2c52a57bac67ff3426f2e0"
             }
         }
     }

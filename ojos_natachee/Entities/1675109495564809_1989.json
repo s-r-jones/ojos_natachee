@@ -10,7 +10,7 @@
             "fileId": "1675109495564897:2046",
             "originalId": "1675109495564898:2047",
             "publicId": "1675109495565032:2122",
-            "expected_hash": "9c71ef49671edffb7d6ae8242fcdf708",
+            "expected_hash": "7c81afd6179746421c6e6536a1882bbd",
             "additional": {
                 "isUnpackedInPublic": "false"
             }
@@ -35,7 +35,7 @@
         "IResourceController": {
             "public": {
                 "path": "Meshes/Balloon [DELETE_ME]/Materials/face_sleep.lsmat",
-                "hash": "e9e47a2e46bd41be6df2dbfb22bd473d"
+                "hash": "b56b172475b41246caec60e19a732cb8"
             }
         }
     }

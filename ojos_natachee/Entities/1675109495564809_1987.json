@@ -10,7 +10,7 @@
             "fileId": "1675109495564889:2042",
             "originalId": "1675109495564890:2043",
             "publicId": "1675109495565030:2120",
-            "expected_hash": "b1489206e4b4f76c02702651b398b762",
+            "expected_hash": "15723640519bbcd3702595c6b10b497f",
             "additional": {
                 "isUnpackedInPublic": "false"
             }
@@ -35,7 +35,7 @@
         "IResourceController": {
             "public": {
                 "path": "Meshes/Balloon [DELETE_ME]/Materials/balloon_legs.lsmat",
-                "hash": "f2019918e05183517d77a6f8bc1117ec"
+                "hash": "00dbfede9b4fa9b3d3bce677428b9281"
             }
         }
     }
