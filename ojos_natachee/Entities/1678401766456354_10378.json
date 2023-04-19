@@ -1,0 +1,23 @@
+{
+    "1678401766454287:10377": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Materials/balloon_legs 2",
+                "hash": "8262694713b9b21b0c5695af33ae5dad"
+            }
+        }
+    },
+    "1678401766456354:10378": {
+        "IResourceController": {
+            "name": "balloon_legs 2",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1678401766454287:10377",
+            "resources": [
+                "1678401766459031:10380"
+            ]
+        }
+    }
+}

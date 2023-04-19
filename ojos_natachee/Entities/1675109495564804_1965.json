@@ -1,0 +1,17 @@
+{
+    "1675109495564804:1965": {
+        "IResourceController": {
+            "name": "Location Asset [REPLACE_LOCATION_ID]",
+            "type": 20,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643741984901560:347857"
+        },
+        "IResourceManager": {
+            "uid": "1643741984901560:347857",
+            "name": "Location Asset",
+            "flags": 0
+        }
+    }
+}

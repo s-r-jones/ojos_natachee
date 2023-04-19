@@ -1,0 +1,79 @@
+{
+    "1645144481672592:12955": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "887d5869d1e73197187ad9b67497acff"
+                    },
+                    "v": "1675109495564942:2074"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "162362",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "449913",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675109495564931:2067"
+        }
+    },
+    "1675109495564812:1999": {
+        "IResourceController": {
+            "name": "balloon_materialParams",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645144481672592:12955",
+            "fileId": "1675109495564928:2065",
+            "originalId": "1675109495564930:2066",
+            "publicId": "1675109495565039:2131",
+            "expected_hash": "7472b73d3929765d6879777f5d81921e",
+            "additional": {
+                "originHash": "887d5869d1e73197187ad9b67497acff"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1645144481672592:12955",
+            "name": "Files/File433.jpg",
+            "flags": 1
+        }
+    },
+    "1675109495564928:2065": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564928_2065.pvr"
+        }
+    },
+    "1675109495564930:2066": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564930_2066.png"
+        }
+    },
+    "1675109495564931:2067": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564931_2067.png"
+        }
+    },
+    "1675109495564942:2074": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564942_2074.pvr"
+        }
+    },
+    "1675109495565039:2131": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/balloon_materialParams.png",
+                "hash": "887d5869d1e73197187ad9b67497acff"
+            }
+        }
+    }
+}

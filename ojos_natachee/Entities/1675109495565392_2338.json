@@ -1,0 +1,23 @@
+{
+    "1675109495565034:2125": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Segmentation Textures"
+            }
+        }
+    },
+    "1675109495565392:2338": {
+        "IResourceController": {
+            "name": "Segmentation Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675109495565034:2125",
+            "resources": [
+                "1675109495564810:1992",
+                "1675109495564811:1994"
+            ]
+        }
+    }
+}

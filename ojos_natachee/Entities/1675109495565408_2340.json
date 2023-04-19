@@ -1,0 +1,22 @@
+{
+    "1675109495565040:2133": {
+        "IResourceController": {
+            "public": {
+                "path": "Localization"
+            }
+        }
+    },
+    "1675109495565408:2340": {
+        "IResourceController": {
+            "name": "Localization",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675109495565040:2133",
+            "resources": [
+                "1675109495564812:2001"
+            ]
+        }
+    }
+}

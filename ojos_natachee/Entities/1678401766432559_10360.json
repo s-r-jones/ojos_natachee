@@ -1,0 +1,24 @@
+{
+    "1678401766431064:10359": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/location_debug/pass0",
+                "hash": "037dd260d78c98f30165c17582e6ddd1"
+            }
+        }
+    },
+    "1678401766432559:10360": {
+        "IResourceController": {
+            "name": "pass0",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1678401766431064:10359",
+            "resources": [
+                "1678401766437718:10364",
+                "1681926444328583:10557"
+            ]
+        }
+    }
+}

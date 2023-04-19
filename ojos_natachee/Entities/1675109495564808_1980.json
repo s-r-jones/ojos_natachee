@@ -1,0 +1,33 @@
+{
+    "1675109495564808:1980": {
+        "IResourceController": {
+            "name": "MarkerGuide",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643927472607241:988254",
+            "fileId": "1675109495564862:2027",
+            "publicId": "1675109495565020:2109",
+            "expected_hash": "3bbdbb66d94f0fb233629e1366e06e2c"
+        },
+        "IResourceManager": {
+            "uid": "1643927472607241:988254",
+            "name": "Files/File_1675109495564862_2027.js",
+            "flags": 1
+        }
+    },
+    "1675109495564862:2027": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564862_2027.js"
+        }
+    },
+    "1675109495565020:2109": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Information Scripts/MarkerGuide.js",
+                "hash": "3bbdbb66d94f0fb233629e1366e06e2c"
+            }
+        }
+    }
+}

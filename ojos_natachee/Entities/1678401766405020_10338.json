@@ -1,0 +1,23 @@
+{
+    "1678401766401875:10337": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Hint Materials/loading_ring 2",
+                "hash": "8262694713b9b21b0c5695af33ae5dad"
+            }
+        }
+    },
+    "1678401766405020:10338": {
+        "IResourceController": {
+            "name": "loading_ring 2",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1678401766401875:10337",
+            "resources": [
+                "1678401766408193:10340"
+            ]
+        }
+    }
+}

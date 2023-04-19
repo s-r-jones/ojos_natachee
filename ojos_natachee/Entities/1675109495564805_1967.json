@@ -1,0 +1,33 @@
+{
+    "1675109495564805:1967": {
+        "IResourceController": {
+            "name": "FrontCameraMirror",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643741984912413:347941",
+            "fileId": "1675109495564835:2010",
+            "publicId": "1675109495564998:2085",
+            "expected_hash": "644e0d3a045de99a4233b9350a283898"
+        },
+        "IResourceManager": {
+            "uid": "1643741984912413:347941",
+            "name": "Files/File_1675109495564835_2010.js",
+            "flags": 1
+        }
+    },
+    "1675109495564835:2010": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564835_2010.js"
+        }
+    },
+    "1675109495564998:2085": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/FrontCameraMirror.js",
+                "hash": "644e0d3a045de99a4233b9350a283898"
+            }
+        }
+    }
+}

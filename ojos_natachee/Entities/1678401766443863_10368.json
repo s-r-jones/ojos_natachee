@@ -1,0 +1,23 @@
+{
+    "1678401766440884:10367": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Materials/baloon 2",
+                "hash": "8262694713b9b21b0c5695af33ae5dad"
+            }
+        }
+    },
+    "1678401766443863:10368": {
+        "IResourceController": {
+            "name": "baloon 2",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1678401766440884:10367",
+            "resources": [
+                "1678401766447533:10370"
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1675109495565000:2089": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Information Scripts"
+            }
+        }
+    },
+    "1675109495565331:2331": {
+        "IResourceController": {
+            "name": "Information Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675109495565000:2089",
+            "resources": [
+                "1675109495564805:1968",
+                "1675109495564808:1980"
+            ]
+        }
+    }
+}

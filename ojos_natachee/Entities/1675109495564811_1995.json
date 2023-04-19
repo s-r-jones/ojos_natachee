@@ -1,0 +1,79 @@
+{
+    "1644607785885453:939550": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "075826346eee33bf901852dc269ec604"
+                    },
+                    "v": "1675109495564912:2056"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "6729",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "12948",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675109495564910:2055"
+        }
+    },
+    "1675109495564811:1995": {
+        "IResourceController": {
+            "name": "failed_texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644607785885453:939550",
+            "fileId": "1675109495564907:2053",
+            "originalId": "1675109495564909:2054",
+            "publicId": "1675109495565035:2127",
+            "expected_hash": "58d205b62f2550c682f6799e28c56114",
+            "additional": {
+                "originHash": "075826346eee33bf901852dc269ec604"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1644607785885453:939550",
+            "name": "Files/File389.png",
+            "flags": 1
+        }
+    },
+    "1675109495564907:2053": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564907_2053.pvr"
+        }
+    },
+    "1675109495564909:2054": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564909_2054.png"
+        }
+    },
+    "1675109495564910:2055": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564910_2055.png"
+        }
+    },
+    "1675109495564912:2056": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564912_2056.pvr"
+        }
+    },
+    "1675109495565035:2127": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Hint Textures/failed_texture.png",
+                "hash": "075826346eee33bf901852dc269ec604"
+            }
+        }
+    }
+}

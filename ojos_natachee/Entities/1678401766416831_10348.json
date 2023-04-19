@@ -1,0 +1,23 @@
+{
+    "1678401766414005:10347": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/segmentation_material 2",
+                "hash": "8262694713b9b21b0c5695af33ae5dad"
+            }
+        }
+    },
+    "1678401766416831:10348": {
+        "IResourceController": {
+            "name": "segmentation_material 2",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1678401766414005:10347",
+            "resources": [
+                "1678401766420177:10350"
+            ]
+        }
+    }
+}

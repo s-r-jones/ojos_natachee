@@ -1,0 +1,23 @@
+{
+    "1678401766476418:10397": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Materials/face_sleep 2",
+                "hash": "8262694713b9b21b0c5695af33ae5dad"
+            }
+        }
+    },
+    "1678401766478757:10398": {
+        "IResourceController": {
+            "name": "face_sleep 2",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1678401766476418:10397",
+            "resources": [
+                "1678401766481559:10400"
+            ]
+        }
+    }
+}

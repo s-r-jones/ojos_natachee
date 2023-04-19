@@ -1,0 +1,23 @@
+{
+    "1678401766427300:10357": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/location_debug",
+                "hash": "8262694713b9b21b0c5695af33ae5dad"
+            }
+        }
+    },
+    "1678401766429216:10358": {
+        "IResourceController": {
+            "name": "location_debug",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1678401766427300:10357",
+            "resources": [
+                "1678401766432559:10360"
+            ]
+        }
+    }
+}

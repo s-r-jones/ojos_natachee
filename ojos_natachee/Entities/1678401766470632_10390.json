@@ -1,0 +1,24 @@
+{
+    "1678401766469122:10389": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Materials/face_awake 2/pass0",
+                "hash": "037dd260d78c98f30165c17582e6ddd1"
+            }
+        }
+    },
+    "1678401766470632:10390": {
+        "IResourceController": {
+            "name": "pass0",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1678401766469122:10389",
+            "resources": [
+                "1678401766474169:10394",
+                "1681926444332544:10569"
+            ]
+        }
+    }
+}

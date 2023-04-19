@@ -1,0 +1,23 @@
+{
+    "1675109495565027:2116": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Textures"
+            }
+        }
+    },
+    "1675109495565496:2342": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675109495565027:2116",
+            "resources": [
+                "1675109495564809:1985",
+                "1675109495564809:1986"
+            ]
+        }
+    }
+}

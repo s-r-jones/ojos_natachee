@@ -1,0 +1,33 @@
+{
+    "1675109495564807:1976": {
+        "IResourceController": {
+            "name": "StatusController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643831938393980:905352",
+            "fileId": "1675109495564852:2021",
+            "publicId": "1675109495565012:2102",
+            "expected_hash": "6a976bcf150770ee7ffc63a2741ff7fe"
+        },
+        "IResourceManager": {
+            "uid": "1643831938393980:905352",
+            "name": "Files/File_1675109495564852_2021.js",
+            "flags": 1
+        }
+    },
+    "1675109495564852:2021": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564852_2021.js"
+        }
+    },
+    "1675109495565012:2102": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Status/StatusController.js",
+                "hash": "6a976bcf150770ee7ffc63a2741ff7fe"
+            }
+        }
+    }
+}

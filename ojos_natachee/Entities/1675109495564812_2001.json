@@ -1,0 +1,34 @@
+{
+    "1675109495564812:2001": {
+        "IResourceController": {
+            "name": "custom_location_localization",
+            "type": 31,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645572407809628:563230",
+            "fileId": "1675109495564944:2075",
+            "publicId": "1675109495565041:2134",
+            "expected_hash": "7a22b9cfae43b4c8232a2c24d3342fd9"
+        },
+        "IResourceManager": {
+            "uid": "1645572407809628:563230",
+            "name": "Files/File_1675109495564944_2075",
+            "flags": 1
+        }
+    },
+    "1675109495564944:2075": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564944_2075"
+        }
+    },
+    "1675109495565041:2134": {
+        "IResourceController": {
+            "public": {
+                "path": "Localization/custom_location_localization",
+                "hash": "7a22b9cfae43b4c8232a2c24d3342fd9",
+                "complexResourceHash": "dccc733f658e8ba02575c2d818ba3036"
+            }
+        }
+    }
+}

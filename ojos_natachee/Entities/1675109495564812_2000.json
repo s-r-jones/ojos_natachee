@@ -1,0 +1,79 @@
+{
+    "1645144481895996:13008": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "da0335a2c0085e0de36c1c4633ae2a7b"
+                    },
+                    "v": "1675109495564941:2073"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "8371",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "13780",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675109495564936:2070"
+        }
+    },
+    "1675109495564812:2000": {
+        "IResourceController": {
+            "name": "face_sleep",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645144481895996:13008",
+            "fileId": "1675109495564933:2068",
+            "originalId": "1675109495564935:2069",
+            "publicId": "1675109495565040:2132",
+            "expected_hash": "c1a7240bfb752b5cfa59766038aefa08",
+            "additional": {
+                "originHash": "da0335a2c0085e0de36c1c4633ae2a7b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1645144481895996:13008",
+            "name": "Files/File436.jpg",
+            "flags": 1
+        }
+    },
+    "1675109495564933:2068": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564933_2068.pvr"
+        }
+    },
+    "1675109495564935:2069": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564935_2069.png"
+        }
+    },
+    "1675109495564936:2070": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564936_2070.png"
+        }
+    },
+    "1675109495564941:2073": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564941_2073.pvr"
+        }
+    },
+    "1675109495565040:2132": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/face_sleep.png",
+                "hash": "da0335a2c0085e0de36c1c4633ae2a7b"
+            }
+        }
+    }
+}

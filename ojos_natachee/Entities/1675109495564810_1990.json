@@ -1,0 +1,42 @@
+{
+    "1675109495564810:1990": {
+        "IResourceController": {
+            "name": "face_awake",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644349401948439:47821",
+            "fileId": "1675109495564899:2048",
+            "originalId": "1675109495564901:2049",
+            "publicId": "1675109495565032:2123",
+            "expected_hash": "9c71ef49671edffb7d6ae8242fcdf708",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1644349401948439:47821",
+            "name": "Files/File_1675109495564899_2048",
+            "flags": 1
+        }
+    },
+    "1675109495564899:2048": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564899_2048"
+        }
+    },
+    "1675109495564901:2049": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564901_2049.lsmat"
+        }
+    },
+    "1675109495565032:2123": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Materials/face_awake.lsmat",
+                "hash": "374324865d32c795888122ecb8838ce7"
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1646084323731593:29572": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "0b91e13c69c7632bf797724b04053afc"
+                    },
+                    "v": "1675109495564952:2081"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "37209",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "140502",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675109495564951:2080"
+        }
+    },
+    "1675109495564812:2003": {
+        "IResourceController": {
+            "name": "Custom Location Creator [SCAN_ME]",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646084323731593:29572",
+            "fileId": "1675109495564949:2078",
+            "originalId": "1675109495564950:2079",
+            "publicId": "1675109495565043:2136",
+            "expected_hash": "9bb170ad75eb948d479ac145f4084b49",
+            "additional": {
+                "originHash": "0b91e13c69c7632bf797724b04053afc"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1646084323731593:29572",
+            "name": "Files/File446.png",
+            "flags": 1
+        }
+    },
+    "1675109495564949:2078": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564949_2078.pvr"
+        }
+    },
+    "1675109495564950:2079": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564950_2079.png"
+        }
+    },
+    "1675109495564951:2080": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564951_2080.png"
+        }
+    },
+    "1675109495564952:2081": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564952_2081.pvr"
+        }
+    },
+    "1675109495565043:2136": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Location Creator [SCAN_ME].png",
+                "hash": "0b91e13c69c7632bf797724b04053afc"
+            }
+        }
+    }
+}

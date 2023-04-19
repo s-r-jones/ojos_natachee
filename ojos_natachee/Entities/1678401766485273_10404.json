@@ -1,0 +1,23 @@
+{
+    "1678401766484166:10403": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Materials/face_sleep 2/pass0/desktop",
+                "hash": "127948d15645456e57f69faa4ed0fe51"
+            }
+        }
+    },
+    "1678401766485273:10404": {
+        "IResourceController": {
+            "name": "desktop",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1678401766484166:10403",
+            "resources": [
+                "1681926444333181:10571"
+            ]
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1675109495564809:1987": {
+        "IResourceController": {
+            "name": "balloon_legs",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644349399713755:47610",
+            "fileId": "1675109495564889:2042",
+            "originalId": "1675109495564890:2043",
+            "publicId": "1675109495565030:2120",
+            "expected_hash": "b1489206e4b4f76c02702651b398b762",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1644349399713755:47610",
+            "name": "Files/File_1675109495564889_2042",
+            "flags": 1
+        }
+    },
+    "1675109495564889:2042": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564889_2042"
+        }
+    },
+    "1675109495564890:2043": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564890_2043.lsmat"
+        }
+    },
+    "1675109495565030:2120": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Materials/balloon_legs.lsmat",
+                "hash": "f2019918e05183517d77a6f8bc1117ec"
+            }
+        }
+    }
+}

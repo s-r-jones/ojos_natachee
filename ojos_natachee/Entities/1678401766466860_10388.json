@@ -1,0 +1,23 @@
+{
+    "1678401766464967:10387": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Materials/face_awake 2",
+                "hash": "8262694713b9b21b0c5695af33ae5dad"
+            }
+        }
+    },
+    "1678401766466860:10388": {
+        "IResourceController": {
+            "name": "face_awake 2",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1678401766464967:10387",
+            "resources": [
+                "1678401766470632:10390"
+            ]
+        }
+    }
+}
