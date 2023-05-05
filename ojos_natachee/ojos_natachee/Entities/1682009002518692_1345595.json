@@ -1,0 +1,30 @@
+{
+    "1682009002518692:1345595": {
+        "IResourceController": {
+            "name": "natachee_scan",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682009002518595:1345579",
+            "fileId": "1682009002568726:1345634",
+            "originalId": "1682009201365303:13102",
+            "expected_hash": "40ad3de8ec42e4b8db6eb3126c9d9a86"
+        },
+        "IResourceManager": {
+            "uid": "1682009002518595:1345579",
+            "name": "natachee_scan",
+            "flags": 0
+        }
+    },
+    "1682009002568726:1345634": {
+        "IFileManager": {
+            "path": "Files/File_1682009002568726_1345634.oprfb"
+        }
+    },
+    "1682009201365303:13102": {
+        "IFileManager": {
+            "path": "Files/File_1682009201365303_13102.oprfb"
+        }
+    }
+}

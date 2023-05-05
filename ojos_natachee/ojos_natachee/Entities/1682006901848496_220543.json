@@ -1,0 +1,139 @@
+{
+    "1682006901847172:220542": {
+        "IFileManager": {
+            "path": "Files/File_1682006901847172_220542.mesh"
+        }
+    },
+    "1682006901848496:220543": {
+        "IResourceController": {
+            "name": "SM_Garden_Plants_Rose_Climbing_02_C_LOD2",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682006901880490:220545",
+            "fileId": "1682006901847172:220542",
+            "expected_hash": "5526173304c74ccda3178e4ad1bae912",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "3",
+                            "semantic": "color"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture1"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682006901880490:220545",
+            "name": "Files/File_1682006901847172_220542.mesh",
+            "flags": 1
+        }
+    },
+    "1682006901880490:220545": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3645498929055699283",
+                        "uncompressed_hash": "9767d2cf146120ab7c3ebd72b28a2c0f"
+                    },
+                    "v": "1682011259143947:1045761"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "41268",
+                "compressedSize": "7835",
+                "extension": "mesh",
+                "originalRAM": "41088",
+                "originalSize": "33228",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "3",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture1"
+                            }
+                        ]
+                    },
+                    "isCompressed": "true",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682006902620075:221021"
+        }
+    },
+    "1682006902620075:221021": {
+        "IFileManager": {
+            "path": "Files/File_1682006902620075_221021.mesh"
+        }
+    },
+    "1682011259143947:1045761": {
+        "IFileManager": {
+            "path": "Files/File_1682011259143947_1045761.mesh"
+        }
+    }
+}

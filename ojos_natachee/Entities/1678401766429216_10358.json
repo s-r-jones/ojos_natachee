@@ -1,12 +1,4 @@
 {
-    "1678401766427300:10357": {
-        "IResourceController": {
-            "public": {
-                "path": "Materials/location_debug",
-                "hash": "8262694713b9b21b0c5695af33ae5dad"
-            }
-        }
-    },
     "1678401766429216:10358": {
         "IResourceController": {
             "name": "location_debug",
@@ -14,10 +6,17 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1678401766427300:10357",
+            "publicId": "1682006688467238:10211",
             "resources": [
                 "1678401766432559:10360"
             ]
+        }
+    },
+    "1682006688467238:10211": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/location_debug"
+            }
         }
     }
 }

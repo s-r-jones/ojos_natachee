@@ -1,0 +1,91 @@
+{
+    "1682007479723912:589122": {
+        "IFileManager": {
+            "path": "Files/File_1682007479723912_589122.png"
+        }
+    },
+    "1682007479727742:589124": {
+        "IResourceController": {
+            "name": "flower_MRA",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682007479743686:589125",
+            "fileId": "1682007479723912:589122",
+            "originalId": "1682007479754036:589132",
+            "publicId": "1682007480268899:589291",
+            "expected_hash": "13308c9c9e7e5bf1bec270e17370789f",
+            "additional": {
+                "originHash": "70b4dd8280b3147e420a633ef025829c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682007479743686:589125",
+            "name": "Files/File_1682007479723912_589122.png",
+            "flags": 1
+        }
+    },
+    "1682007479743686:589125": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1024",
+                        "uncompressed_hash": "70b4dd8280b3147e420a633ef025829c"
+                    },
+                    "v": "1682011043905351:911637"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "70b4dd8280b3147e420a633ef025829c"
+                    },
+                    "v": "1682007727353941:706842"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "1390259",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "4680965",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682007479931492:589187"
+        }
+    },
+    "1682007479754036:589132": {
+        "IFileManager": {
+            "path": "Files/File_1682007479754036_589132.png"
+        }
+    },
+    "1682007479931492:589187": {
+        "IFileManager": {
+            "path": "Files/File_1682007479931492_589187.png"
+        }
+    },
+    "1682007480268899:589291": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/flowers/textures/flower_MRA.png",
+                "hash": "70b4dd8280b3147e420a633ef025829c"
+            }
+        }
+    },
+    "1682007727353941:706842": {
+        "IFileManager": {
+            "path": "Files/File_1682007727353941_706842.pvr"
+        }
+    },
+    "1682011043905351:911637": {
+        "IFileManager": {
+            "path": "Files/File_1682011043905351_911637.png"
+        }
+    }
+}

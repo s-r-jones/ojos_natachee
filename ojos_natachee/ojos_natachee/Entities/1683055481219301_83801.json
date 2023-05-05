@@ -1,0 +1,30 @@
+{
+    "1683055481219301:83801": {
+        "IResourceController": {
+            "name": "GoldenMary",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1683055481219179:83758",
+            "fileId": "1683055481258613:83869",
+            "originalId": "1683055882395130:336067",
+            "expected_hash": "4a60a584c7ad825e6d0d98395f038356"
+        },
+        "IResourceManager": {
+            "uid": "1683055481219179:83758",
+            "name": "GoldenMary",
+            "flags": 0
+        }
+    },
+    "1683055481258613:83869": {
+        "IFileManager": {
+            "path": "Files/File_1683055481258613_83869.oprfb"
+        }
+    },
+    "1683055882395130:336067": {
+        "IFileManager": {
+            "path": "Files/File_1683055882395130_336067.oprfb"
+        }
+    }
+}

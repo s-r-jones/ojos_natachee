@@ -1,0 +1,22 @@
+{
+    "1682006889671337:193130": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006890420128:193623",
+            "resources": [
+                "1682006889673102:193132"
+            ]
+        }
+    },
+    "1682006890420128:193623": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/flowers/meshes/SM_Garden_Plants_Rose_Climbing_01_F/Materials"
+            }
+        }
+    }
+}

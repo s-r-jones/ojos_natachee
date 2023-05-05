@@ -1,0 +1,51 @@
+{
+    "1683056966716178:791843": {
+        "IResourceController": {
+            "name": "starfield",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1683056970384062:793787",
+            "publicId": "1683056970428735:793810",
+            "expected_hash": "d38331e4966c23ed54d30a3f06a94815",
+            "resources": [
+                "1683056969113654:793109",
+                "1683056969165195:793159",
+                "1683056969461082:793246",
+                "1683056970337194:793740"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "lambert2",
+                        "v": "1683056969463155:793249"
+                    }
+                ]
+            }
+        }
+    },
+    "1683056970384062:793787": {
+        "IFileManager": {
+            "path": "Files/File_1683056970384062_793787.fbx"
+        }
+    },
+    "1683056970428735:793810": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/SkyBox/starfield.fbx",
+                "hash": "d38331e4966c23ed54d30a3f06a94815"
+            }
+        }
+    }
+}

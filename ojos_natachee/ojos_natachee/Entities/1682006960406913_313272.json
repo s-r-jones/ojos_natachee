@@ -1,0 +1,79 @@
+{
+    "1682006960405027:313271": {
+        "IFileManager": {
+            "path": "Files/File_1682006960405027_313271.pvr"
+        }
+    },
+    "1682006960406913:313272": {
+        "IResourceController": {
+            "name": "T_Garden_Plants_Rose_Atlas_C_BCO",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682006960421387:313284",
+            "fileId": "1682006960405027:313271",
+            "originalId": "1682006960433374:313291",
+            "publicId": "1682006960916427:313470",
+            "expected_hash": "e003569660025ad0e421cb8d6a5bfca3",
+            "additional": {
+                "originHash": "8ef3d6bc973ace7553fc3ab266c40bbe"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682006960421387:313284",
+            "name": "Files/File_1682006960405027_313271.png",
+            "flags": 1
+        }
+    },
+    "1682006960421387:313284": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d1e91a1043c8d974bf91ec72b87c5e57"
+                    },
+                    "v": "1682007339096965:525228"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "1451094",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "5800452",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682006960594471:313350"
+        }
+    },
+    "1682006960433374:313291": {
+        "IFileManager": {
+            "path": "Files/File_1682006960433374_313291.tga"
+        }
+    },
+    "1682006960594471:313350": {
+        "IFileManager": {
+            "path": "Files/File_1682006960594471_313350.png"
+        }
+    },
+    "1682006960916427:313470": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/flowers/textures/T_Garden_Plants_Rose_Atlas_C_BCO.tga",
+                "hash": "8ef3d6bc973ace7553fc3ab266c40bbe"
+            }
+        }
+    },
+    "1682007339096965:525228": {
+        "IFileManager": {
+            "path": "Files/File_1682007339096965_525228.pvr"
+        }
+    }
+}

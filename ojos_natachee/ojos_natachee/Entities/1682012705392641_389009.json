@@ -1,0 +1,42 @@
+{
+    "1682012705390805:389008": {
+        "IFileManager": {
+            "path": "Files/File_1682012705390805_389008.png"
+        }
+    },
+    "1682012705392641:389009": {
+        "IResourceController": {
+            "name": "Flower",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682012705393334:389010",
+            "fileId": "1682012705390805:389008",
+            "originalId": "1682012705393904:389015",
+            "publicId": "1682012705396928:389016",
+            "expected_hash": "4a5152a2623bcd116a4e8100d1970f6f",
+            "additional": {
+                "originHash": "4a5152a2623bcd116a4e8100d1970f6f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682012705393334:389010",
+            "name": "Files/File_1682012705390805_389008.png",
+            "flags": 1
+        }
+    },
+    "1682012705393904:389015": {
+        "IFileManager": {
+            "path": "Files/File_1682012705393904_389015.png"
+        }
+    },
+    "1682012705396928:389016": {
+        "IResourceController": {
+            "public": {
+                "path": "Flower.png",
+                "hash": "4a5152a2623bcd116a4e8100d1970f6f"
+            }
+        }
+    }
+}

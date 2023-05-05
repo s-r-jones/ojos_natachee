@@ -1,0 +1,33 @@
+{
+    "1682013174185657:597452": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/prefabs/folder 2.lock",
+                "hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        }
+    },
+    "1682013174186293:597455": {
+        "IFileManager": {
+            "path": "Files/File_1682013174186293_597455.lock"
+        }
+    },
+    "1682013174188385:597456": {
+        "IResourceController": {
+            "name": "folder 2",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682013174188400:597457",
+            "fileId": "1682013174186293:597455",
+            "publicId": "1682013174185657:597452",
+            "expected_hash": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "IResourceManager": {
+            "uid": "1682013174188400:597457",
+            "name": "Files/File_1682013174186293_597455.lock",
+            "flags": 1
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682013181470324:605620": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Status/StatusController 2.js",
+                "hash": "6a976bcf150770ee7ffc63a2741ff7fe"
+            }
+        }
+    },
+    "1682013181471790:605621": {
+        "IFileManager": {
+            "path": "Files/File_1682013181471790_605621.js"
+        }
+    },
+    "1682013181475278:605622": {
+        "IResourceController": {
+            "name": "StatusController 2",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682013181475310:605623",
+            "fileId": "1682013181471790:605621",
+            "publicId": "1682013181470324:605620",
+            "expected_hash": "6a976bcf150770ee7ffc63a2741ff7fe"
+        },
+        "IResourceManager": {
+            "uid": "1682013181475310:605623",
+            "name": "Files/File_1682013181471790_605621.js",
+            "flags": 1
+        }
+    }
+}

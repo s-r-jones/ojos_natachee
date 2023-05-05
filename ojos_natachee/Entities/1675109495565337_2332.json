@@ -1,11 +1,4 @@
 {
-    "1675109495565008:2098": {
-        "IResourceController": {
-            "public": {
-                "path": "Scripts/Status"
-            }
-        }
-    },
     "1675109495565337:2332": {
         "IResourceController": {
             "name": "Status",
@@ -13,10 +6,17 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1675109495565008:2098",
+            "publicId": "1682006688472100:10220",
             "resources": [
                 "1675109495564807:1976"
             ]
+        }
+    },
+    "1682006688472100:10220": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Status"
+            }
         }
     }
 }

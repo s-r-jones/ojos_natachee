@@ -1,0 +1,17 @@
+{
+    "1675109495564801:1961": {
+        "IResourceController": {
+            "name": "Device Camera Texture",
+            "type": 1,
+            "subtype": 3,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "2:2"
+        },
+        "IResourceManager": {
+            "uid": "2:2",
+            "name": "Camera Input",
+            "flags": 0
+        }
+    }
+}

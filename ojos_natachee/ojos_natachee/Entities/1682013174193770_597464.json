@@ -1,0 +1,33 @@
+{
+    "1682013174190566:597462": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/audio/folder 2.lock",
+                "hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        }
+    },
+    "1682013174191203:597463": {
+        "IFileManager": {
+            "path": "Files/File_1682013174191203_597463.lock"
+        }
+    },
+    "1682013174193770:597464": {
+        "IResourceController": {
+            "name": "folder 2",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682013174193783:597465",
+            "fileId": "1682013174191203:597463",
+            "publicId": "1682013174190566:597462",
+            "expected_hash": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "IResourceManager": {
+            "uid": "1682013174193783:597465",
+            "name": "Files/File_1682013174191203_597463.lock",
+            "flags": 1
+        }
+    }
+}

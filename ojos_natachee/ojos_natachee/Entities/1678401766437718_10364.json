@@ -1,0 +1,23 @@
+{
+    "1678401766437718:10364": {
+        "IResourceController": {
+            "name": "desktop",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006688468323:10213",
+            "resources": [
+                "1682005474413138:10684",
+                "1682013174150009:597413"
+            ]
+        }
+    },
+    "1682006688468323:10213": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/location_debug/pass0/desktop"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1682012053017706:77717": {
+        "IResourceController": {
+            "name": "Scans",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682012053017981:77718",
+            "resources": [
+                "1682008996682098:1342993",
+                "1682009318002104:57684",
+                "1682011780099553:1359463"
+            ]
+        }
+    },
+    "1682012053017981:77718": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/Scans"
+            }
+        }
+    }
+}

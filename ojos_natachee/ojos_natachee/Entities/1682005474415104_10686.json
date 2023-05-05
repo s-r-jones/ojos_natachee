@@ -1,0 +1,22 @@
+{
+    "1682005474415104:10686": {
+        "IResourceController": {
+            "name": "includes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006688469280:10215",
+            "resources": [
+                "1682013174143538:597403"
+            ]
+        }
+    },
+    "1682006688469280:10215": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/location_debug/pass0/includes"
+            }
+        }
+    }
+}

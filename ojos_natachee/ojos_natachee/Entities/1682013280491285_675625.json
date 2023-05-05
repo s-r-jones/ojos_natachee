@@ -1,0 +1,39 @@
+{
+    "1682013280488216:675620": {
+        "IFileManager": {
+            "path": "Files/File_1682013280488216_675620"
+        }
+    },
+    "1682013280491285:675625": {
+        "IResourceController": {
+            "name": "Gold",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682013280491289:675626",
+            "fileId": "1682013280488216:675620",
+            "originalId": "1682013280570918:675657",
+            "publicId": "1682013281188041:675902",
+            "expected_hash": "69311c9eb3a9bac23e2acfce80136279"
+        },
+        "IResourceManager": {
+            "uid": "1682013280491289:675626",
+            "name": "Files/File_1682013280488216_675620",
+            "flags": 1
+        }
+    },
+    "1682013280570918:675657": {
+        "IFileManager": {
+            "path": "Files/File_1682013280570918_675657.lsmat"
+        }
+    },
+    "1682013281188041:675902": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/Golden_Guadalupe/Gold.lsmat",
+                "hash": "b149efcdcd83fd3b142674c250e06107"
+            }
+        }
+    }
+}

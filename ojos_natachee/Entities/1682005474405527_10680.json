@@ -1,0 +1,20 @@
+{
+    "1682005474405527:10680": {
+        "IResourceController": {
+            "name": "glsl120",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006688461817:10201",
+            "resources": []
+        }
+    },
+    "1682006688461817:10201": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Hint Materials/loading_ring 2/pass0/desktop/glsl120"
+            }
+        }
+    }
+}

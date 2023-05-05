@@ -1,0 +1,22 @@
+{
+    "1682006809313622:87460": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006809925411:87882",
+            "resources": [
+                "1682006809315764:87462"
+            ]
+        }
+    },
+    "1682006809925411:87882": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/flowers/meshes/SM_Garden_Plants_Rose_01_A/Materials"
+            }
+        }
+    }
+}

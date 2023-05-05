@@ -1,0 +1,30 @@
+{
+    "1682006890311972:193532": {
+        "IResourceController": {
+            "name": "SM_Garden_Plants_Rose_Climbing_01_F",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682006890311804:193487",
+            "fileId": "1682006890355325:193584",
+            "originalId": "1682009198780083:12815",
+            "expected_hash": "d904921e2f0a44994de640aa28095cdc"
+        },
+        "IResourceManager": {
+            "uid": "1682006890311804:193487",
+            "name": "SM_Garden_Plants_Rose_Climbing_01_F",
+            "flags": 0
+        }
+    },
+    "1682006890355325:193584": {
+        "IFileManager": {
+            "path": "Files/File_1682006890355325_193584.oprfb"
+        }
+    },
+    "1682009198780083:12815": {
+        "IFileManager": {
+            "path": "Files/File_1682009198780083_12815.oprfb"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1682006913219526:238588": {
+        "IResourceController": {
+            "name": "SM_Garden_Plants_Rose_Climbing_03_B",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682006915447585:241964",
+            "publicId": "1682006915511655:241990",
+            "expected_hash": "83a4f782df641e38fc56ec8d38551876",
+            "resources": [
+                "1682006914615368:241369",
+                "1682006914780099:241492",
+                "1682006915401870:241908"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "M_Garden_Plants_Atlas",
+                        "v": "1682006914781721:241497"
+                    }
+                ]
+            }
+        }
+    },
+    "1682006915447585:241964": {
+        "IFileManager": {
+            "path": "Files/File_1682006915447585_241964.fbx"
+        }
+    },
+    "1682006915511655:241990": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/flowers/meshes/SM_Garden_Plants_Rose_Climbing_03_B.fbx",
+                "hash": "83a4f782df641e38fc56ec8d38551876"
+            }
+        }
+    }
+}

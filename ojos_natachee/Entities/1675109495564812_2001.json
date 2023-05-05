@@ -8,7 +8,7 @@
             "hidden": false,
             "uid": "1645572407809628:563230",
             "fileId": "1675109495564944:2075",
-            "publicId": "1675109495565041:2134",
+            "publicId": "1682006688528817:10246",
             "expected_hash": "7a22b9cfae43b4c8232a2c24d3342fd9"
         },
         "IResourceManager": {
@@ -22,7 +22,7 @@
             "path": "Files/File_1675109495564944_2075"
         }
     },
-    "1675109495565041:2134": {
+    "1682006688528817:10246": {
         "IResourceController": {
             "public": {
                 "path": "Localization/custom_location_localization",

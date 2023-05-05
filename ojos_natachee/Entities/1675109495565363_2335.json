@@ -1,11 +1,4 @@
 {
-    "1675109495565015:2104": {
-        "IResourceController": {
-            "public": {
-                "path": "Scripts/HelperScripts"
-            }
-        }
-    },
     "1675109495565363:2335": {
         "IResourceController": {
             "name": "HelperScripts",
@@ -13,12 +6,19 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1675109495565015:2104",
+            "publicId": "1682006688473330:10222",
             "resources": [
                 "1675109495565358:2334",
                 "1675109495564807:1977",
                 "1675109495564811:1993"
             ]
+        }
+    },
+    "1682006688473330:10222": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/HelperScripts"
+            }
         }
     }
 }

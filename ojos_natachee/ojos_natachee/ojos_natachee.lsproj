@@ -1,0 +1,2101 @@
+{
+    "lens_id": "",
+    "document_id": "z5vIT12FRgG-vWkwgg7A",
+    "original_document_id": "vIGvvIM8T7Ono7fZ4oWs",
+    "version": "31",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "43",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "43",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": {
+                "1678466207840559:1983239": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                }
+            }
+        },
+        "Material::UiComponent": "",
+        "MetaInfoUIComponent": {
+            "hints": [
+                ""
+            ],
+            "lens": "Ojos Natachee",
+            "applicability": "2",
+            "lens_descriptors": [
+                "EXPERIMENTAL_API"
+            ],
+            "sg": "true",
+            "git_friendly": "true",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "ObjectTracking3DUIComponent": "",
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Patio.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Patio.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Plane",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
+    },
+    "model": {
+        "IFileManager": "",
+        "IResourceManager": {
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": "",
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "RenderOrderComponent": "",
+        "WorldComponent": {
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "AssetImportController": {
+            "itemUidToID": [
+                {
+                    "k": "1682013280491289:675626",
+                    "v": "5QzOH1BcVkCjU6I2kdfld9"
+                },
+                {
+                    "k": "1682013299680006:684338",
+                    "v": "44hLuGhnd3FgKJlxGI2WGm"
+                },
+                {
+                    "k": "1682013762885050:902574",
+                    "v": "1zkOPJ242q21TMuiXlbb3J"
+                },
+                {
+                    "k": "1682014123741082:1046130",
+                    "v": "4CL86t4whCWg0SWoyFc7H9"
+                },
+                {
+                    "k": "1682014179583467:1074995",
+                    "v": "4CL86t4whCWg0SWoyFc7H9"
+                }
+            ]
+        },
+        "Compression::IController": "",
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        },
+        "IResourceController": "",
+        "InspectorController": "",
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1682013264175542:664015",
+                        "v": {
+                            "prefab": "1682013206623701:628439",
+                            "mapping": [
+                                {
+                                    "k": "1682013206615566:628415",
+                                    "v": "1682013264175542:664015"
+                                },
+                                {
+                                    "k": "1682013206618049:628419",
+                                    "v": "1682013264177106:664023"
+                                },
+                                {
+                                    "k": "1682013206619354:628421",
+                                    "v": "1682013264178162:664025"
+                                },
+                                {
+                                    "k": "1682013206620894:628428",
+                                    "v": "1682013264179271:664027"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1682015088179106:1506413",
+                        "v": {
+                            "prefab": "1682011780099362:1359444",
+                            "mapping": [
+                                {
+                                    "k": "1682009024716411:1360452",
+                                    "v": "1682015088179106:1506413"
+                                },
+                                {
+                                    "k": "1682009024717675:1360460",
+                                    "v": "1682015088180524:1506421"
+                                },
+                                {
+                                    "k": "1682009024718488:1360462",
+                                    "v": "1682015088181678:1506423"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1683055516370099:111815",
+                        "v": {
+                            "prefab": "1683055481219179:83758",
+                            "mapping": [
+                                {
+                                    "k": "1683055481212693:83715",
+                                    "v": "1683055516370099:111815"
+                                },
+                                {
+                                    "k": "1683055481214171:83717",
+                                    "v": "1683055516370871:111833"
+                                },
+                                {
+                                    "k": "1683055481214720:83719",
+                                    "v": "1683055516371398:111835"
+                                },
+                                {
+                                    "k": "1683055481215236:83721",
+                                    "v": "1683055516371866:111837"
+                                },
+                                {
+                                    "k": "1683055481216230:83732",
+                                    "v": "1683055516373876:111853"
+                                },
+                                {
+                                    "k": "1683055481216750:83734",
+                                    "v": "1683055516377039:111916"
+                                },
+                                {
+                                    "k": "1683055481217627:83745",
+                                    "v": "1683055516380515:111930"
+                                },
+                                {
+                                    "k": "1683055481218150:83747",
+                                    "v": "1683055516381388:111932"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1683056839338609:716236",
+                        "v": {
+                            "prefab": "1683055481219179:83758",
+                            "mapping": [
+                                {
+                                    "k": "1683055481212693:83715",
+                                    "v": "1683056839338609:716236"
+                                },
+                                {
+                                    "k": "1683055481214171:83717",
+                                    "v": "1683056839339870:716238"
+                                },
+                                {
+                                    "k": "1683055481214720:83719",
+                                    "v": "1683056839340640:716240"
+                                },
+                                {
+                                    "k": "1683055481215236:83721",
+                                    "v": "1683056839341321:716244"
+                                },
+                                {
+                                    "k": "1683055481216230:83732",
+                                    "v": "1683056839342227:716255"
+                                },
+                                {
+                                    "k": "1683055481216750:83734",
+                                    "v": "1683056839342853:716257"
+                                },
+                                {
+                                    "k": "1683055481217627:83745",
+                                    "v": "1683056839344439:716268"
+                                },
+                                {
+                                    "k": "1683055481218150:83747",
+                                    "v": "1683056839345147:716270"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1683056986088210:808482",
+                        "v": {
+                            "prefab": "1683056970337118:793721",
+                            "mapping": [
+                                {
+                                    "k": "1683056970334024:793702",
+                                    "v": "1683056986088210:808482"
+                                },
+                                {
+                                    "k": "1683056970335282:793708",
+                                    "v": "1683056986089388:808492"
+                                },
+                                {
+                                    "k": "1683056970335908:793710",
+                                    "v": "1683056986089992:808494"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1682006809847456:87763",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006809839606:87697"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_A"
+                            ],
+                            "v": "1682006809840609:87699"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_A",
+                                "SM_Garden_Plants_Rose_01_A_LOD0"
+                            ],
+                            "v": "1682006809841022:87701"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_A",
+                                "SM_Garden_Plants_Rose_01_A_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006809841449:87703"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_A",
+                                "SM_Garden_Plants_Rose_01_A_LOD1"
+                            ],
+                            "v": "1682006809842540:87714"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_A",
+                                "SM_Garden_Plants_Rose_01_A_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006809843113:87716"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_A",
+                                "SM_Garden_Plants_Rose_01_A_LOD2"
+                            ],
+                            "v": "1682006809844131:87729"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_A",
+                                "SM_Garden_Plants_Rose_01_A_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006809844610:87733"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_A",
+                                "SM_Garden_Plants_Rose_01_A_LOD3"
+                            ],
+                            "v": "1682006809845564:87746"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_A",
+                                "SM_Garden_Plants_Rose_01_A_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006809846081:87748"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006817022704:96104",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006817016314:96048"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_B"
+                            ],
+                            "v": "1682006817017284:96050"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_B",
+                                "SM_Garden_Plants_Rose_01_B_LOD0"
+                            ],
+                            "v": "1682006817017713:96052"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_B",
+                                "SM_Garden_Plants_Rose_01_B_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006817018095:96054"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_B",
+                                "SM_Garden_Plants_Rose_01_B_LOD1"
+                            ],
+                            "v": "1682006817018992:96065"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_B",
+                                "SM_Garden_Plants_Rose_01_B_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006817019319:96067"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_B",
+                                "SM_Garden_Plants_Rose_01_B_LOD2"
+                            ],
+                            "v": "1682006817020186:96078"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_B",
+                                "SM_Garden_Plants_Rose_01_B_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006817020496:96080"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_B",
+                                "SM_Garden_Plants_Rose_01_B_LOD3"
+                            ],
+                            "v": "1682006817021299:96091"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_B",
+                                "SM_Garden_Plants_Rose_01_B_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006817021605:96093"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006821441973:103940",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006821435137:103884"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_C"
+                            ],
+                            "v": "1682006821436114:103886"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_C",
+                                "SM_Garden_Plants_Rose_01_C_LOD0"
+                            ],
+                            "v": "1682006821436761:103888"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_C",
+                                "SM_Garden_Plants_Rose_01_C_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006821437128:103890"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_C",
+                                "SM_Garden_Plants_Rose_01_C_LOD1"
+                            ],
+                            "v": "1682006821438090:103901"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_C",
+                                "SM_Garden_Plants_Rose_01_C_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006821438416:103903"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_C",
+                                "SM_Garden_Plants_Rose_01_C_LOD2"
+                            ],
+                            "v": "1682006821439295:103914"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_C",
+                                "SM_Garden_Plants_Rose_01_C_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006821439627:103916"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_C",
+                                "SM_Garden_Plants_Rose_01_C_LOD3"
+                            ],
+                            "v": "1682006821440558:103927"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_C",
+                                "SM_Garden_Plants_Rose_01_C_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006821440882:103929"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006828460346:113090",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006828453789:113025"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_D"
+                            ],
+                            "v": "1682006828454974:113031"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_D",
+                                "SM_Garden_Plants_Rose_01_D_LOD0"
+                            ],
+                            "v": "1682006828455386:113033"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_D",
+                                "SM_Garden_Plants_Rose_01_D_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006828455763:113040"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_D",
+                                "SM_Garden_Plants_Rose_01_D_LOD1"
+                            ],
+                            "v": "1682006828456678:113051"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_D",
+                                "SM_Garden_Plants_Rose_01_D_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006828456991:113053"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_D",
+                                "SM_Garden_Plants_Rose_01_D_LOD2"
+                            ],
+                            "v": "1682006828457849:113064"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_D",
+                                "SM_Garden_Plants_Rose_01_D_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006828458159:113066"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_D",
+                                "SM_Garden_Plants_Rose_01_D_LOD3"
+                            ],
+                            "v": "1682006828458970:113077"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_D",
+                                "SM_Garden_Plants_Rose_01_D_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006828459283:113079"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006832357793:120973",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006832350027:120907"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_E"
+                            ],
+                            "v": "1682006832351977:120915"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_E",
+                                "SM_Garden_Plants_Rose_01_E_LOD0"
+                            ],
+                            "v": "1682006832352507:120917"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_E",
+                                "SM_Garden_Plants_Rose_01_E_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006832352878:120919"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_E",
+                                "SM_Garden_Plants_Rose_01_E_LOD1"
+                            ],
+                            "v": "1682006832353901:120934"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_E",
+                                "SM_Garden_Plants_Rose_01_E_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006832354253:120936"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_E",
+                                "SM_Garden_Plants_Rose_01_E_LOD2"
+                            ],
+                            "v": "1682006832355181:120947"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_E",
+                                "SM_Garden_Plants_Rose_01_E_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006832355501:120949"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_E",
+                                "SM_Garden_Plants_Rose_01_E_LOD3"
+                            ],
+                            "v": "1682006832356353:120960"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_01_E",
+                                "SM_Garden_Plants_Rose_01_E_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006832356680:120962"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006836165109:128962",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006836158151:128904"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_02_A"
+                            ],
+                            "v": "1682006836159013:128906"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_02_A",
+                                "SM_Garden_Plants_Rose_02_A_LOD0"
+                            ],
+                            "v": "1682006836159330:128908"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_02_A",
+                                "SM_Garden_Plants_Rose_02_A_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006836159629:128910"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_02_A",
+                                "SM_Garden_Plants_Rose_02_A_LOD1"
+                            ],
+                            "v": "1682006836160642:128921"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_02_A",
+                                "SM_Garden_Plants_Rose_02_A_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006836161032:128923"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_02_A",
+                                "SM_Garden_Plants_Rose_02_A_LOD2"
+                            ],
+                            "v": "1682006836161970:128934"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_02_A",
+                                "SM_Garden_Plants_Rose_02_A_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006836162325:128936"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_02_A",
+                                "SM_Garden_Plants_Rose_02_A_LOD3"
+                            ],
+                            "v": "1682006836163450:128949"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_02_A",
+                                "SM_Garden_Plants_Rose_02_A_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006836163860:128951"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006861226844:146366",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006861220153:146305"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_A"
+                            ],
+                            "v": "1682006861220993:146312"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_A",
+                                "SM_Garden_Plants_Rose_Climbing_01_A_LOD0"
+                            ],
+                            "v": "1682006861221460:146314"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_A",
+                                "SM_Garden_Plants_Rose_Climbing_01_A_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006861221766:146316"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_A",
+                                "SM_Garden_Plants_Rose_Climbing_01_A_LOD1"
+                            ],
+                            "v": "1682006861222722:146327"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_A",
+                                "SM_Garden_Plants_Rose_Climbing_01_A_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006861223094:146329"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_A",
+                                "SM_Garden_Plants_Rose_Climbing_01_A_LOD2"
+                            ],
+                            "v": "1682006861224035:146340"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_A",
+                                "SM_Garden_Plants_Rose_Climbing_01_A_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006861224375:146342"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_A",
+                                "SM_Garden_Plants_Rose_Climbing_01_A_LOD3"
+                            ],
+                            "v": "1682006861225226:146353"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_A",
+                                "SM_Garden_Plants_Rose_Climbing_01_A_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006861225580:146355"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006865301263:154707",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006865293917:154649"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_B"
+                            ],
+                            "v": "1682006865294937:154653"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_B",
+                                "SM_Garden_Plants_Rose_Climbing_01_B_LOD0"
+                            ],
+                            "v": "1682006865295337:154655"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_B",
+                                "SM_Garden_Plants_Rose_Climbing_01_B_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006865295666:154657"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_B",
+                                "SM_Garden_Plants_Rose_Climbing_01_B_LOD1"
+                            ],
+                            "v": "1682006865296748:154668"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_B",
+                                "SM_Garden_Plants_Rose_Climbing_01_B_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006865297177:154670"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_B",
+                                "SM_Garden_Plants_Rose_Climbing_01_B_LOD2"
+                            ],
+                            "v": "1682006865298251:154681"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_B",
+                                "SM_Garden_Plants_Rose_Climbing_01_B_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006865298569:154683"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_B",
+                                "SM_Garden_Plants_Rose_Climbing_01_B_LOD3"
+                            ],
+                            "v": "1682006865299610:154694"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_B",
+                                "SM_Garden_Plants_Rose_Climbing_01_B_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006865299925:154696"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006868936411:163035",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006868928320:162979"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_C"
+                            ],
+                            "v": "1682006868929248:162981"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_C",
+                                "SM_Garden_Plants_Rose_Climbing_01_C_LOD0"
+                            ],
+                            "v": "1682006868929626:162983"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_C",
+                                "SM_Garden_Plants_Rose_Climbing_01_C_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006868929933:162985"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_C",
+                                "SM_Garden_Plants_Rose_Climbing_01_C_LOD1"
+                            ],
+                            "v": "1682006868931101:162996"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_C",
+                                "SM_Garden_Plants_Rose_Climbing_01_C_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006868931582:162998"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_C",
+                                "SM_Garden_Plants_Rose_Climbing_01_C_LOD2"
+                            ],
+                            "v": "1682006868932748:163009"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_C",
+                                "SM_Garden_Plants_Rose_Climbing_01_C_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006868933086:163011"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_C",
+                                "SM_Garden_Plants_Rose_Climbing_01_C_LOD3"
+                            ],
+                            "v": "1682006868934233:163022"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_C",
+                                "SM_Garden_Plants_Rose_Climbing_01_C_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006868934599:163024"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006873042764:171738",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006873035771:171680"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_D"
+                            ],
+                            "v": "1682006873036882:171682"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_D",
+                                "SM_Garden_Plants_Rose_Climbing_01_D_LOD0"
+                            ],
+                            "v": "1682006873037254:171684"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_D",
+                                "SM_Garden_Plants_Rose_Climbing_01_D_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006873037556:171686"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_D",
+                                "SM_Garden_Plants_Rose_Climbing_01_D_LOD1"
+                            ],
+                            "v": "1682006873038476:171697"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_D",
+                                "SM_Garden_Plants_Rose_Climbing_01_D_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006873038784:171699"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_D",
+                                "SM_Garden_Plants_Rose_Climbing_01_D_LOD2"
+                            ],
+                            "v": "1682006873039654:171710"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_D",
+                                "SM_Garden_Plants_Rose_Climbing_01_D_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006873039975:171712"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_D",
+                                "SM_Garden_Plants_Rose_Climbing_01_D_LOD3"
+                            ],
+                            "v": "1682006873040893:171723"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_D",
+                                "SM_Garden_Plants_Rose_Climbing_01_D_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006873041356:171725"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006876962672:180475",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006876954995:180415"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_E"
+                            ],
+                            "v": "1682006876956011:180417"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_E",
+                                "SM_Garden_Plants_Rose_Climbing_01_E_LOD0"
+                            ],
+                            "v": "1682006876956360:180419"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_E",
+                                "SM_Garden_Plants_Rose_Climbing_01_E_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006876956654:180421"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_E",
+                                "SM_Garden_Plants_Rose_Climbing_01_E_LOD1"
+                            ],
+                            "v": "1682006876957589:180432"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_E",
+                                "SM_Garden_Plants_Rose_Climbing_01_E_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006876958101:180434"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_E",
+                                "SM_Garden_Plants_Rose_Climbing_01_E_LOD2"
+                            ],
+                            "v": "1682006876959028:180445"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_E",
+                                "SM_Garden_Plants_Rose_Climbing_01_E_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006876959492:180447"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_E",
+                                "SM_Garden_Plants_Rose_Climbing_01_E_LOD3"
+                            ],
+                            "v": "1682006876960410:180458"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_E",
+                                "SM_Garden_Plants_Rose_Climbing_01_E_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006876961045:180460"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006890311804:193487",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006890304132:193431"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_F"
+                            ],
+                            "v": "1682006890305404:193433"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_F",
+                                "SM_Garden_Plants_Rose_Climbing_01_F_LOD0"
+                            ],
+                            "v": "1682006890305791:193435"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_F",
+                                "SM_Garden_Plants_Rose_Climbing_01_F_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006890306155:193437"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_F",
+                                "SM_Garden_Plants_Rose_Climbing_01_F_LOD1"
+                            ],
+                            "v": "1682006890307271:193448"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_F",
+                                "SM_Garden_Plants_Rose_Climbing_01_F_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006890307728:193450"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_F",
+                                "SM_Garden_Plants_Rose_Climbing_01_F_LOD2"
+                            ],
+                            "v": "1682006890308905:193461"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_F",
+                                "SM_Garden_Plants_Rose_Climbing_01_F_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006890309262:193463"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_F",
+                                "SM_Garden_Plants_Rose_Climbing_01_F_LOD3"
+                            ],
+                            "v": "1682006890310268:193474"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_01_F",
+                                "SM_Garden_Plants_Rose_Climbing_01_F_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006890310629:193476"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006895439493:202916",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006895432789:202853"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_A"
+                            ],
+                            "v": "1682006895433710:202857"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_A",
+                                "SM_Garden_Plants_Rose_Climbing_02_A_LOD0"
+                            ],
+                            "v": "1682006895434083:202859"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_A",
+                                "SM_Garden_Plants_Rose_Climbing_02_A_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006895434407:202861"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_A",
+                                "SM_Garden_Plants_Rose_Climbing_02_A_LOD1"
+                            ],
+                            "v": "1682006895435400:202872"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_A",
+                                "SM_Garden_Plants_Rose_Climbing_02_A_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006895435723:202874"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_A",
+                                "SM_Garden_Plants_Rose_Climbing_02_A_LOD2"
+                            ],
+                            "v": "1682006895436590:202885"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_A",
+                                "SM_Garden_Plants_Rose_Climbing_02_A_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006895437058:202890"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_A",
+                                "SM_Garden_Plants_Rose_Climbing_02_A_LOD3"
+                            ],
+                            "v": "1682006895437969:202903"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_A",
+                                "SM_Garden_Plants_Rose_Climbing_02_A_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006895438315:202905"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006899026580:211877",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006899018751:211819"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_B"
+                            ],
+                            "v": "1682006899019628:211821"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_B",
+                                "SM_Garden_Plants_Rose_Climbing_02_B_LOD0"
+                            ],
+                            "v": "1682006899020003:211825"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_B",
+                                "SM_Garden_Plants_Rose_Climbing_02_B_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006899020464:211827"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_B",
+                                "SM_Garden_Plants_Rose_Climbing_02_B_LOD1"
+                            ],
+                            "v": "1682006899021414:211838"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_B",
+                                "SM_Garden_Plants_Rose_Climbing_02_B_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006899021735:211840"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_B",
+                                "SM_Garden_Plants_Rose_Climbing_02_B_LOD2"
+                            ],
+                            "v": "1682006899023099:211851"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_B",
+                                "SM_Garden_Plants_Rose_Climbing_02_B_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006899023611:211853"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_B",
+                                "SM_Garden_Plants_Rose_Climbing_02_B_LOD3"
+                            ],
+                            "v": "1682006899024602:211864"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_B",
+                                "SM_Garden_Plants_Rose_Climbing_02_B_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006899025143:211866"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006902549462:220906",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006902540692:220848"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_C"
+                            ],
+                            "v": "1682006902541779:220850"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_C",
+                                "SM_Garden_Plants_Rose_Climbing_02_C_LOD0"
+                            ],
+                            "v": "1682006902542207:220852"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_C",
+                                "SM_Garden_Plants_Rose_Climbing_02_C_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006902542545:220856"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_C",
+                                "SM_Garden_Plants_Rose_Climbing_02_C_LOD1"
+                            ],
+                            "v": "1682006902543686:220867"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_C",
+                                "SM_Garden_Plants_Rose_Climbing_02_C_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006902544114:220869"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_C",
+                                "SM_Garden_Plants_Rose_Climbing_02_C_LOD2"
+                            ],
+                            "v": "1682006902545112:220880"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_C",
+                                "SM_Garden_Plants_Rose_Climbing_02_C_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006902545506:220882"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_C",
+                                "SM_Garden_Plants_Rose_Climbing_02_C_LOD3"
+                            ],
+                            "v": "1682006902547102:220893"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_02_C",
+                                "SM_Garden_Plants_Rose_Climbing_02_C_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006902547954:220895"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006911444337:232401",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006911436700:232334"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_A"
+                            ],
+                            "v": "1682006911437880:232336"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_A",
+                                "SM_Garden_Plants_Rose_Climbing_03_A_LOD0"
+                            ],
+                            "v": "1682006911438256:232338"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_A",
+                                "SM_Garden_Plants_Rose_Climbing_03_A_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006911438676:232340"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_A",
+                                "SM_Garden_Plants_Rose_Climbing_03_A_LOD1"
+                            ],
+                            "v": "1682006911439658:232351"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_A",
+                                "SM_Garden_Plants_Rose_Climbing_03_A_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006911440377:232355"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_A",
+                                "SM_Garden_Plants_Rose_Climbing_03_A_LOD2"
+                            ],
+                            "v": "1682006911441533:232368"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_A",
+                                "SM_Garden_Plants_Rose_Climbing_03_A_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006911441946:232372"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_A",
+                                "SM_Garden_Plants_Rose_Climbing_03_A_LOD3"
+                            ],
+                            "v": "1682006911442899:232388"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_A",
+                                "SM_Garden_Plants_Rose_Climbing_03_A_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006911443255:232390"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006915401728:241863",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006915395239:241801"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_B"
+                            ],
+                            "v": "1682006915396349:241803"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_B",
+                                "SM_Garden_Plants_Rose_Climbing_03_B_LOD0"
+                            ],
+                            "v": "1682006915396661:241805"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_B",
+                                "SM_Garden_Plants_Rose_Climbing_03_B_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006915396953:241807"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_B",
+                                "SM_Garden_Plants_Rose_Climbing_03_B_LOD1"
+                            ],
+                            "v": "1682006915397832:241818"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_B",
+                                "SM_Garden_Plants_Rose_Climbing_03_B_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006915398139:241820"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_B",
+                                "SM_Garden_Plants_Rose_Climbing_03_B_LOD2"
+                            ],
+                            "v": "1682006915398976:241831"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_B",
+                                "SM_Garden_Plants_Rose_Climbing_03_B_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006915399300:241833"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_B",
+                                "SM_Garden_Plants_Rose_Climbing_03_B_LOD3"
+                            ],
+                            "v": "1682006915400143:241846"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_B",
+                                "SM_Garden_Plants_Rose_Climbing_03_B_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006915400465:241848"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006920965503:252204",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006920956106:252148"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_C"
+                            ],
+                            "v": "1682006920959021:252150"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_C",
+                                "SM_Garden_Plants_Rose_Climbing_03_C_LOD0"
+                            ],
+                            "v": "1682006920959422:252152"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_C",
+                                "SM_Garden_Plants_Rose_Climbing_03_C_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006920959764:252154"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_C",
+                                "SM_Garden_Plants_Rose_Climbing_03_C_LOD1"
+                            ],
+                            "v": "1682006920961083:252165"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_C",
+                                "SM_Garden_Plants_Rose_Climbing_03_C_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006920961440:252167"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_C",
+                                "SM_Garden_Plants_Rose_Climbing_03_C_LOD2"
+                            ],
+                            "v": "1682006920962550:252178"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_C",
+                                "SM_Garden_Plants_Rose_Climbing_03_C_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006920962904:252180"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_C",
+                                "SM_Garden_Plants_Rose_Climbing_03_C_LOD3"
+                            ],
+                            "v": "1682006920963860:252191"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_03_C",
+                                "SM_Garden_Plants_Rose_Climbing_03_C_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006920964220:252193"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006930712744:264452",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006930706154:264393"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_A"
+                            ],
+                            "v": "1682006930707431:264395"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_A",
+                                "SM_Garden_Plants_Rose_Climbing_04_A_LOD0"
+                            ],
+                            "v": "1682006930707991:264397"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_A",
+                                "SM_Garden_Plants_Rose_Climbing_04_A_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006930708310:264399"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_A",
+                                "SM_Garden_Plants_Rose_Climbing_04_A_LOD1"
+                            ],
+                            "v": "1682006930709204:264410"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_A",
+                                "SM_Garden_Plants_Rose_Climbing_04_A_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006930709501:264412"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_A",
+                                "SM_Garden_Plants_Rose_Climbing_04_A_LOD2"
+                            ],
+                            "v": "1682006930710295:264423"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_A",
+                                "SM_Garden_Plants_Rose_Climbing_04_A_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006930710596:264425"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_A",
+                                "SM_Garden_Plants_Rose_Climbing_04_A_LOD3"
+                            ],
+                            "v": "1682006930711389:264436"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_A",
+                                "SM_Garden_Plants_Rose_Climbing_04_A_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006930711698:264438"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006942465903:277743",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006942459357:277681"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_B"
+                            ],
+                            "v": "1682006942460524:277683"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_B",
+                                "SM_Garden_Plants_Rose_Climbing_04_B_LOD0"
+                            ],
+                            "v": "1682006942460832:277685"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_B",
+                                "SM_Garden_Plants_Rose_Climbing_04_B_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006942461119:277687"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_B",
+                                "SM_Garden_Plants_Rose_Climbing_04_B_LOD1"
+                            ],
+                            "v": "1682006942461962:277698"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_B",
+                                "SM_Garden_Plants_Rose_Climbing_04_B_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006942462267:277700"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_B",
+                                "SM_Garden_Plants_Rose_Climbing_04_B_LOD2"
+                            ],
+                            "v": "1682006942463064:277711"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_B",
+                                "SM_Garden_Plants_Rose_Climbing_04_B_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006942463395:277713"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_B",
+                                "SM_Garden_Plants_Rose_Climbing_04_B_LOD3"
+                            ],
+                            "v": "1682006942464472:277726"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_B",
+                                "SM_Garden_Plants_Rose_Climbing_04_B_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006942464834:277728"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006946614389:287849",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006946607743:287787"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_C"
+                            ],
+                            "v": "1682006946609209:287789"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_C",
+                                "SM_Garden_Plants_Rose_Climbing_04_C_LOD0"
+                            ],
+                            "v": "1682006946609527:287791"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_C",
+                                "SM_Garden_Plants_Rose_Climbing_04_C_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006946609835:287793"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_C",
+                                "SM_Garden_Plants_Rose_Climbing_04_C_LOD1"
+                            ],
+                            "v": "1682006946610727:287804"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_C",
+                                "SM_Garden_Plants_Rose_Climbing_04_C_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006946611037:287806"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_C",
+                                "SM_Garden_Plants_Rose_Climbing_04_C_LOD2"
+                            ],
+                            "v": "1682006946611879:287819"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_C",
+                                "SM_Garden_Plants_Rose_Climbing_04_C_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006946612212:287821"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_C",
+                                "SM_Garden_Plants_Rose_Climbing_04_C_LOD3"
+                            ],
+                            "v": "1682006946613031:287834"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_C",
+                                "SM_Garden_Plants_Rose_Climbing_04_C_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006946613372:287838"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682006950251489:297795",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682006950245302:297739"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_D"
+                            ],
+                            "v": "1682006950246441:297741"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_D",
+                                "SM_Garden_Plants_Rose_Climbing_04_D_LOD0"
+                            ],
+                            "v": "1682006950246770:297743"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_D",
+                                "SM_Garden_Plants_Rose_Climbing_04_D_LOD0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006950247061:297745"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_D",
+                                "SM_Garden_Plants_Rose_Climbing_04_D_LOD1"
+                            ],
+                            "v": "1682006950247919:297756"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_D",
+                                "SM_Garden_Plants_Rose_Climbing_04_D_LOD1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006950248220:297758"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_D",
+                                "SM_Garden_Plants_Rose_Climbing_04_D_LOD2"
+                            ],
+                            "v": "1682006950249013:297769"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_D",
+                                "SM_Garden_Plants_Rose_Climbing_04_D_LOD2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006950249321:297771"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_D",
+                                "SM_Garden_Plants_Rose_Climbing_04_D_LOD3"
+                            ],
+                            "v": "1682006950250128:297782"
+                        },
+                        {
+                            "k": [
+                                "SM_Garden_Plants_Rose_Climbing_04_D",
+                                "SM_Garden_Plants_Rose_Climbing_04_D_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682006950250446:297784"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682009002518595:1345579",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682009002506844:1345549"
+                        },
+                        {
+                            "k": [
+                                "mesh"
+                            ],
+                            "v": "1682009002516139:1345566"
+                        },
+                        {
+                            "k": [
+                                "mesh",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682009002516770:1345568"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682013206623701:628439",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682013206615566:628415"
+                        },
+                        {
+                            "k": [
+                                "Praying_Mary_Statue"
+                            ],
+                            "v": "1682013206618049:628419"
+                        },
+                        {
+                            "k": [
+                                "Praying_Mary_Statue",
+                                "Praying_Mary_Statue_m"
+                            ],
+                            "v": "1682013206619354:628421"
+                        },
+                        {
+                            "k": [
+                                "Praying_Mary_Statue",
+                                "Praying_Mary_Statue_m",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682013206620894:628428"
+                        }
+                    ]
+                },
+                {
+                    "k": "1683055481219179:83758",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1683055481212693:83715"
+                        },
+                        {
+                            "k": [
+                                "Mary"
+                            ],
+                            "v": "1683055481214171:83717"
+                        },
+                        {
+                            "k": [
+                                "Mary",
+                                "Golden_Mary"
+                            ],
+                            "v": "1683055481217627:83745"
+                        },
+                        {
+                            "k": [
+                                "Mary",
+                                "Golden_Mary",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1683055481218150:83747"
+                        },
+                        {
+                            "k": [
+                                "Mary",
+                                "Lines"
+                            ],
+                            "v": "1683055481214720:83719"
+                        },
+                        {
+                            "k": [
+                                "Mary",
+                                "Lines",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1683055481215236:83721"
+                        },
+                        {
+                            "k": [
+                                "Mary",
+                                "Stars"
+                            ],
+                            "v": "1683055481216230:83732"
+                        },
+                        {
+                            "k": [
+                                "Mary",
+                                "Stars",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1683055481216750:83734"
+                        }
+                    ]
+                },
+                {
+                    "k": "1683056970337118:793721",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1683056970334024:793702"
+                        },
+                        {
+                            "k": [
+                                "starfield"
+                            ],
+                            "v": "1683056970335282:793708"
+                        },
+                        {
+                            "k": [
+                                "starfield",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1683056970335908:793710"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        }
+    },
+    "templateName": "Custom Location AR",
+    "templateUrl": "https:\/\/downloads.ctfassets.net\/xyb83mibqg29\/6ahHiExjyRvwoF1dHyG3Ja\/ce054994297f346a43541d70e6d566e4\/Custom_Location_AR.zip"
+}

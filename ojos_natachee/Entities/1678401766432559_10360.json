@@ -1,12 +1,4 @@
 {
-    "1678401766431064:10359": {
-        "IResourceController": {
-            "public": {
-                "path": "Materials/location_debug/pass0",
-                "hash": "037dd260d78c98f30165c17582e6ddd1"
-            }
-        }
-    },
     "1678401766432559:10360": {
         "IResourceController": {
             "name": "pass0",
@@ -14,11 +6,18 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1678401766431064:10359",
+            "publicId": "1682006688467856:10212",
             "resources": [
                 "1678401766437718:10364",
-                "1681929623497843:641285"
+                "1682005474415104:10686"
             ]
+        }
+    },
+    "1682006688467856:10212": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/location_debug/pass0"
+            }
         }
     }
 }

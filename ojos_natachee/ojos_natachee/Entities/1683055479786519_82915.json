@@ -1,0 +1,39 @@
+{
+    "1683055479785365:82914": {
+        "IFileManager": {
+            "path": "Files/File_1683055479785365_82914"
+        }
+    },
+    "1683055479786519:82915": {
+        "IResourceController": {
+            "name": "lines",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683055479786524:82916",
+            "fileId": "1683055479785365:82914",
+            "originalId": "1683055479820605:82931",
+            "publicId": "1683055481419334:83953",
+            "expected_hash": "e4a532e818d19bff1f8ad859b19e40bd"
+        },
+        "IResourceManager": {
+            "uid": "1683055479786524:82916",
+            "name": "Files/File_1683055479785365_82914",
+            "flags": 1
+        }
+    },
+    "1683055479820605:82931": {
+        "IFileManager": {
+            "path": "Files/File_1683055479820605_82931.lsmat"
+        }
+    },
+    "1683055481419334:83953": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/Golden_Guadalupe/GoldenMary/Materials/lines.lsmat",
+                "hash": "bc36e972af1cae92127e29f5167df54a"
+            }
+        }
+    }
+}

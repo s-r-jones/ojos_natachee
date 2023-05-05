@@ -1,0 +1,106 @@
+{
+    "1682013205050888:627904": {
+        "IFileManager": {
+            "path": "Files/File_1682013205050888_627904.mesh"
+        }
+    },
+    "1682013205053608:627907": {
+        "IResourceController": {
+            "name": "Praying_Mary_Statue_m",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682013205120924:627930",
+            "fileId": "1682013205050888:627904",
+            "expected_hash": "585ebaf8b70274ee55f0f8822edec97b",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682013205120924:627930",
+            "name": "Files/File_1682013205050888_627904.mesh",
+            "flags": 1
+        }
+    },
+    "1682013205120924:627930": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "480396",
+                "compressedSize": "388572",
+                "extension": "mesh",
+                "originalRAM": "480396",
+                "originalSize": "388572",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682013206742025:628516"
+        }
+    },
+    "1682013206742025:628516": {
+        "IFileManager": {
+            "path": "Files/File_1682013206742025_628516.mesh"
+        }
+    }
+}

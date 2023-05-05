@@ -1,0 +1,42 @@
+{
+    "1682012680616114:374455": {
+        "IFileManager": {
+            "path": "Files/File_1682012680616114_374455.png"
+        }
+    },
+    "1682012680617723:374456": {
+        "IResourceController": {
+            "name": "Crisp Warm",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682012680618025:374457",
+            "fileId": "1682012680616114:374455",
+            "originalId": "1682012680618350:374462",
+            "publicId": "1682012680620830:374463",
+            "expected_hash": "9cb56502fe353c98658d29f3b2d79fec",
+            "additional": {
+                "originHash": "9cb56502fe353c98658d29f3b2d79fec"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682012680618025:374457",
+            "name": "Files/File_1682012680616114_374455.png",
+            "flags": 1
+        }
+    },
+    "1682012680618350:374462": {
+        "IFileManager": {
+            "path": "Files/File_1682012680618350_374462.png"
+        }
+    },
+    "1682012680620830:374463": {
+        "IResourceController": {
+            "public": {
+                "path": "Crisp Warm.png",
+                "hash": "9cb56502fe353c98658d29f3b2d79fec"
+            }
+        }
+    }
+}

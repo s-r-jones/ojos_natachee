@@ -1,12 +1,4 @@
 {
-    "1678401766418417:10349": {
-        "IResourceController": {
-            "public": {
-                "path": "Materials/segmentation_material 2/pass0",
-                "hash": "037dd260d78c98f30165c17582e6ddd1"
-            }
-        }
-    },
     "1678401766420177:10350": {
         "IResourceController": {
             "name": "pass0",
@@ -14,11 +6,18 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1678401766418417:10349",
+            "publicId": "1682006688465214:10207",
             "resources": [
                 "1678401766424112:10354",
-                "1681929623491753:641275"
+                "1682005474403645:10678"
             ]
+        }
+    },
+    "1682006688465214:10207": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/segmentation_material 2/pass0"
+            }
         }
     }
 }

@@ -1,0 +1,20 @@
+{
+    "1682005474413138:10684": {
+        "IResourceController": {
+            "name": "glsl120",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006688468797:10214",
+            "resources": []
+        }
+    },
+    "1682006688468797:10214": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/location_debug/pass0/desktop/glsl120"
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1682008996682098:1342993": {
+        "IResourceController": {
+            "name": "natachee_scan",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682009002574699:1345635",
+            "publicId": "1682009003367446:1345926",
+            "expected_hash": "518179c923a052c1ae9a58fe29eceda3",
+            "resources": [
+                "1682009001248144:1344957",
+                "1682009001314474:1345001",
+                "1682009002518692:1345595"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "main",
+                        "v": "1682009001318040:1345004"
+                    }
+                ]
+            }
+        }
+    },
+    "1682009002574699:1345635": {
+        "IFileManager": {
+            "path": "Files/File_1682009002574699_1345635.fbx"
+        }
+    },
+    "1682009003367446:1345926": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/Scans/natachee_scan.fbx",
+                "hash": "518179c923a052c1ae9a58fe29eceda3"
+            }
+        }
+    }
+}

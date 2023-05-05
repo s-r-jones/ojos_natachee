@@ -1,0 +1,24 @@
+{
+    "1683055479785039:82913": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683055481418849:83952",
+            "resources": [
+                "1683055479786519:82915",
+                "1683055480512473:83319",
+                "1683055480856310:83527"
+            ]
+        }
+    },
+    "1683055481418849:83952": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/Golden_Guadalupe/GoldenMary/Materials"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682012979563517:523505": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/HelperScripts/Behavior 2.js",
+                "hash": "6c7932e0df736f27b30f10f3f9e17b49"
+            }
+        }
+    },
+    "1682012979566065:523506": {
+        "IFileManager": {
+            "path": "Files/File_1682012979566065_523506.js"
+        }
+    },
+    "1682012979568867:523507": {
+        "IResourceController": {
+            "name": "Behavior 2",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682012979568893:523508",
+            "fileId": "1682012979566065:523506",
+            "publicId": "1682012979563517:523505",
+            "expected_hash": "6c7932e0df736f27b30f10f3f9e17b49"
+        },
+        "IResourceManager": {
+            "uid": "1682012979568893:523508",
+            "name": "Files/File_1682012979566065_523506.js",
+            "flags": 1
+        }
+    }
+}

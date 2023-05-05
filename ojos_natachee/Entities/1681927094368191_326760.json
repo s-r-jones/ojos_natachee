@@ -14,7 +14,7 @@
             "uid": "1681927094368194:326761",
             "fileId": "1681927094367439:326759",
             "originalId": "1681927094399114:326778",
-            "publicId": "1681927094996345:327338",
+            "publicId": "1682006688655395:10253",
             "expected_hash": "32f6f90f26573da8e62d078f952b8bc0"
         },
         "IResourceManager": {
@@ -28,11 +28,11 @@
             "path": "Files/File_1681927094399114_326778.lsmat"
         }
     },
-    "1681927094996345:327338": {
+    "1682006688655395:10253": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Assets/models/Scaniverse 2023-04-18 141215/Materials/main.lsmat",
-                "hash": "a1e0dc10005f99ac7ce4e430d8d36cf7"
+                "path": "../AdditionalFiles/Assets/models/scaniverse/Materials/main.lsmat",
+                "hash": "c1721111dc0b112a27ec73de40f9b18b"
             }
         }
     }

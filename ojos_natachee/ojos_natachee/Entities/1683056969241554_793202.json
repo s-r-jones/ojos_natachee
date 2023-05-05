@@ -1,0 +1,66 @@
+{
+    "1683056969239828:793201": {
+        "IFileManager": {
+            "path": "Files/File_1683056969239828_793201.jpg"
+        }
+    },
+    "1683056969241554:793202": {
+        "IResourceController": {
+            "name": "1000_F_353230456_YMF5NLCQhFdWIv1y3LViTQGlv9GdODPn",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683056969241781:793203",
+            "fileId": "1683056969239828:793201",
+            "originalId": "1683056969242057:793208",
+            "publicId": "1683056970431702:793812",
+            "expected_hash": "51a40c01f9e2c87855cae439d4d344c3",
+            "additional": {
+                "originHash": "51a40c01f9e2c87855cae439d4d344c3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683056969241781:793203",
+            "name": "Files/File_1683056969239828_793201.jpg",
+            "flags": 1
+        }
+    },
+    "1683056969241781:793203": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4000000",
+                "compressedSize": "204873",
+                "extension": "jpg",
+                "originalRAM": "4000000",
+                "originalSize": "204873",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683056969250541:793223"
+        }
+    },
+    "1683056969242057:793208": {
+        "IFileManager": {
+            "path": "Files/File_1683056969242057_793208.jpg"
+        }
+    },
+    "1683056969250541:793223": {
+        "IFileManager": {
+            "path": "Files/File_1683056969250541_793223.jpg"
+        }
+    },
+    "1683056970431702:793812": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/SkyBox/starfield/Textures/1000_F_353230456_YMF5NLCQhFdWIv1y3LViTQGlv9GdODPn.jpg",
+                "hash": "51a40c01f9e2c87855cae439d4d344c3"
+            }
+        }
+    }
+}

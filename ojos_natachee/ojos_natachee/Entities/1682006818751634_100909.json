@@ -1,0 +1,50 @@
+{
+    "1682006818751634:100909": {
+        "IResourceController": {
+            "name": "SM_Garden_Plants_Rose_01_C",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682006821490933:104042",
+            "publicId": "1682006821534442:104073",
+            "expected_hash": "6607d30a261fa599026bfa91f9c0de25",
+            "resources": [
+                "1682006820801252:103529",
+                "1682006820967773:103654",
+                "1682006821442114:103985"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "M_Garden_Plants_Atlas",
+                        "v": "1682006820969816:103657"
+                    }
+                ]
+            }
+        }
+    },
+    "1682006821490933:104042": {
+        "IFileManager": {
+            "path": "Files/File_1682006821490933_104042.fbx"
+        }
+    },
+    "1682006821534442:104073": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/flowers/meshes/SM_Garden_Plants_Rose_01_C.fbx",
+                "hash": "6607d30a261fa599026bfa91f9c0de25"
+            }
+        }
+    }
+}

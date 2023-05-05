@@ -1,0 +1,59 @@
+{
+    "1683055475745760:80755": {
+        "IResourceController": {
+            "name": "GoldenMary",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1683055481267360:83870",
+            "publicId": "1683055481412542:83947",
+            "expected_hash": "2aeadaacd1ef2f9f02af822df492fd0e",
+            "resources": [
+                "1683055479566066:82744",
+                "1683055479677957:82851",
+                "1683055479785039:82913",
+                "1683055481219301:83801"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Mary_Mat",
+                        "v": "1683055480856316:83528"
+                    },
+                    {
+                        "k": "lines",
+                        "v": "1683055479786524:82916"
+                    },
+                    {
+                        "k": "stars",
+                        "v": "1683055480512476:83320"
+                    }
+                ]
+            }
+        }
+    },
+    "1683055481267360:83870": {
+        "IFileManager": {
+            "path": "Files/File_1683055481267360_83870.fbx"
+        }
+    },
+    "1683055481412542:83947": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/Golden_Guadalupe/GoldenMary.fbx",
+                "hash": "2aeadaacd1ef2f9f02af822df492fd0e"
+            }
+        }
+    }
+}

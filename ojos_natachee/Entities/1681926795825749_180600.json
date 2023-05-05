@@ -6,11 +6,11 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1681926795825933:180601",
+            "publicId": "1682006688710000:10258",
             "resources": []
         }
     },
-    "1681926795825933:180601": {
+    "1682006688710000:10258": {
         "IResourceController": {
             "public": {
                 "path": "Assets/prefabs"

@@ -1,0 +1,24 @@
+{
+    "1678401766408193:10340": {
+        "IResourceController": {
+            "name": "pass0",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006688460970:10199",
+            "resources": [
+                "1678401766411654:10344",
+                "1682005474408265:10682",
+                "1682013174128328:597372"
+            ]
+        }
+    },
+    "1682006688460970:10199": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Hint Materials/loading_ring 2/pass0"
+            }
+        }
+    }
+}

@@ -1,12 +1,4 @@
 {
-    "1678401766406510:10339": {
-        "IResourceController": {
-            "public": {
-                "path": "Materials/Hint Materials/loading_ring 2/pass0",
-                "hash": "037dd260d78c98f30165c17582e6ddd1"
-            }
-        }
-    },
     "1678401766408193:10340": {
         "IResourceController": {
             "name": "pass0",
@@ -14,11 +6,18 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1678401766406510:10339",
+            "publicId": "1682006688460970:10199",
             "resources": [
                 "1678401766411654:10344",
-                "1681929623494654:641279"
+                "1682005474408265:10682"
             ]
+        }
+    },
+    "1682006688460970:10199": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Hint Materials/loading_ring 2/pass0"
+            }
         }
     }
 }

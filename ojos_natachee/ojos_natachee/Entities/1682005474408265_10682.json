@@ -1,0 +1,20 @@
+{
+    "1682005474408265:10682": {
+        "IResourceController": {
+            "name": "includes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006688462249:10202",
+            "resources": []
+        }
+    },
+    "1682006688462249:10202": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Hint Materials/loading_ring 2/pass0/includes"
+            }
+        }
+    }
+}

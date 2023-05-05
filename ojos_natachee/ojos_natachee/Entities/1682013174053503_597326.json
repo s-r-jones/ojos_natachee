@@ -1,0 +1,33 @@
+{
+    "1682013174029630:597317": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/segmentation_material 2/pass0/desktop/folder 2.lock",
+                "hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        }
+    },
+    "1682013174049499:597325": {
+        "IFileManager": {
+            "path": "Files/File_1682013174049499_597325.lock"
+        }
+    },
+    "1682013174053503:597326": {
+        "IResourceController": {
+            "name": "folder 2",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682013174053518:597327",
+            "fileId": "1682013174049499:597325",
+            "publicId": "1682013174029630:597317",
+            "expected_hash": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "IResourceManager": {
+            "uid": "1682013174053518:597327",
+            "name": "Files/File_1682013174049499_597325.lock",
+            "flags": 1
+        }
+    }
+}

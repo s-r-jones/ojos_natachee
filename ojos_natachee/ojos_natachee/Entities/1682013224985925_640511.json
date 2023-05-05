@@ -1,0 +1,25 @@
+{
+    "1682013224985925:640511": {
+        "IResourceController": {
+            "name": "Golden_Guadalupe",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682013224986422:640512",
+            "resources": [
+                "1682013201734241:626907",
+                "1683055475745760:80755",
+                "1682013280491285:675625",
+                "1683055679970595:205618"
+            ]
+        }
+    },
+    "1682013224986422:640512": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/Golden_Guadalupe"
+            }
+        }
+    }
+}

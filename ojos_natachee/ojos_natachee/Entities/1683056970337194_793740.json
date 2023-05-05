@@ -1,0 +1,30 @@
+{
+    "1683056970337194:793740": {
+        "IResourceController": {
+            "name": "starfield",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1683056970337118:793721",
+            "fileId": "1683056970379448:793777",
+            "originalId": "1683057480342271:1124802",
+            "expected_hash": "857d3a5d8d3ff34131c0aec50f86fa6e"
+        },
+        "IResourceManager": {
+            "uid": "1683056970337118:793721",
+            "name": "starfield",
+            "flags": 0
+        }
+    },
+    "1683056970379448:793777": {
+        "IFileManager": {
+            "path": "Files/File_1683056970379448_793777.oprfb"
+        }
+    },
+    "1683057480342271:1124802": {
+        "IFileManager": {
+            "path": "Files/File_1683057480342271_1124802.oprfb"
+        }
+    }
+}

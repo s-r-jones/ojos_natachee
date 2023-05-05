@@ -1,0 +1,22 @@
+{
+    "1683055479677957:82851": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683055481416361:83948",
+            "resources": [
+                "1683055470266190:72458"
+            ]
+        }
+    },
+    "1683055481416361:83948": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/Golden_Guadalupe/GoldenMary/Textures"
+            }
+        }
+    }
+}

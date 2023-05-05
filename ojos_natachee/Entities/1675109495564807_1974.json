@@ -9,7 +9,7 @@
             "uid": "1643831937449482:905246",
             "fileId": "1675109495564846:2017",
             "originalId": "1675109495564847:2018",
-            "publicId": "1675109495565009:2100",
+            "publicId": "1682006688482403:10235",
             "expected_hash": "9a8f0738a827f0455d1b5a92cd3cc271"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1675109495564847_2018"
         }
     },
-    "1675109495565009:2100": {
+    "1682006688482403:10235": {
         "IResourceController": {
             "public": {
                 "path": "Textures/Hint Textures/go_to_anim",

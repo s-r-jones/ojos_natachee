@@ -1,12 +1,4 @@
 {
-    "1678401766436155:10363": {
-        "IResourceController": {
-            "public": {
-                "path": "Materials/location_debug/pass0/desktop",
-                "hash": "127948d15645456e57f69faa4ed0fe51"
-            }
-        }
-    },
     "1678401766437718:10364": {
         "IResourceController": {
             "name": "desktop",
@@ -14,10 +6,17 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1678401766436155:10363",
+            "publicId": "1682006688468323:10213",
             "resources": [
-                "1681929623496132:641283"
+                "1682005474413138:10684"
             ]
+        }
+    },
+    "1682006688468323:10213": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/location_debug/pass0/desktop"
+            }
         }
     }
 }

@@ -1,0 +1,33 @@
+{
+    "1682013174129947:597378": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Hint Materials/loading_ring 2/folder 2.lock",
+                "hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        }
+    },
+    "1682013174130805:597379": {
+        "IFileManager": {
+            "path": "Files/File_1682013174130805_597379.lock"
+        }
+    },
+    "1682013174134219:597380": {
+        "IResourceController": {
+            "name": "folder 2",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682013174134236:597381",
+            "fileId": "1682013174130805:597379",
+            "publicId": "1682013174129947:597378",
+            "expected_hash": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "IResourceManager": {
+            "uid": "1682013174134236:597381",
+            "name": "Files/File_1682013174130805_597379.lock",
+            "flags": 1
+        }
+    }
+}

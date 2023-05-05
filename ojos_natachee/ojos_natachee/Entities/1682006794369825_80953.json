@@ -1,0 +1,24 @@
+{
+    "1682006794369825:80953": {
+        "IResourceController": {
+            "name": "flowers",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006794370123:80954",
+            "resources": [
+                "1682007022420987:392598",
+                "1682007053142191:407293",
+                "1682006990027762:372058"
+            ]
+        }
+    },
+    "1682006794370123:80954": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/flowers"
+            }
+        }
+    }
+}

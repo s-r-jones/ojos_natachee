@@ -1,0 +1,30 @@
+{
+    "1682006832357992:121018": {
+        "IResourceController": {
+            "name": "SM_Garden_Plants_Rose_01_E",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682006832357793:120973",
+            "fileId": "1682006832398553:121068",
+            "originalId": "1682009197648387:12640",
+            "expected_hash": "d6fcbaa0d4082960bf3426b30708b989"
+        },
+        "IResourceManager": {
+            "uid": "1682006832357793:120973",
+            "name": "SM_Garden_Plants_Rose_01_E",
+            "flags": 0
+        }
+    },
+    "1682006832398553:121068": {
+        "IFileManager": {
+            "path": "Files/File_1682006832398553_121068.oprfb"
+        }
+    },
+    "1682009197648387:12640": {
+        "IFileManager": {
+            "path": "Files/File_1682009197648387_12640.oprfb"
+        }
+    }
+}

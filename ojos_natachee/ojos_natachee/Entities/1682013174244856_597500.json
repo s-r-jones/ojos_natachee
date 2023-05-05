@@ -1,0 +1,33 @@
+{
+    "1682013174220383:597487": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/image_markers/folder 2.lock",
+                "hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        }
+    },
+    "1682013174221880:597497": {
+        "IFileManager": {
+            "path": "Files/File_1682013174221880_597497.lock"
+        }
+    },
+    "1682013174244856:597500": {
+        "IResourceController": {
+            "name": "folder 2",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682013174244872:597501",
+            "fileId": "1682013174221880:597497",
+            "publicId": "1682013174220383:597487",
+            "expected_hash": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "IResourceManager": {
+            "uid": "1682013174244872:597501",
+            "name": "Files/File_1682013174221880_597497.lock",
+            "flags": 1
+        }
+    }
+}

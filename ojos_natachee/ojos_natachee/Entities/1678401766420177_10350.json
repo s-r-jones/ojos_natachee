@@ -1,0 +1,24 @@
+{
+    "1678401766420177:10350": {
+        "IResourceController": {
+            "name": "pass0",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006688465214:10207",
+            "resources": [
+                "1678401766424112:10354",
+                "1682005474403645:10678",
+                "1682013174078860:597341"
+            ]
+        }
+    },
+    "1682006688465214:10207": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/segmentation_material 2/pass0"
+            }
+        }
+    }
+}

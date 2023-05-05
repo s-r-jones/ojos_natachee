@@ -6,13 +6,13 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1681926753903027:162305",
+            "publicId": "1682006688579566:10250",
             "resources": [
                 "1681927092085350:325738"
             ]
         }
     },
-    "1681926753903027:162305": {
+    "1682006688579566:10250": {
         "IResourceController": {
             "public": {
                 "path": "Assets/models"

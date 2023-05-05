@@ -1,0 +1,79 @@
+{
+    "1683055470264849:72455": {
+        "IFileManager": {
+            "path": "Files/File_1683055470264849_72455.pvr"
+        }
+    },
+    "1683055470266190:72458": {
+        "IResourceController": {
+            "name": "Veil_Texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683055470267506:72461",
+            "fileId": "1683055470264849:72455",
+            "originalId": "1683055470268108:72466",
+            "publicId": "1683055481416910:83949",
+            "expected_hash": "87a5bb34d4a1518aa3226e2e8410301a",
+            "additional": {
+                "originHash": "431ad7b3c31d45dfe2cbd1a58111d5fe"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683055470267506:72461",
+            "name": "Files/File_1683055470264849_72455.png",
+            "flags": 1
+        }
+    },
+    "1683055470267506:72461": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "431ad7b3c31d45dfe2cbd1a58111d5fe"
+                    },
+                    "v": "1683055473219272:76543"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "307355",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "554312",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683055470319643:72490"
+        }
+    },
+    "1683055470268108:72466": {
+        "IFileManager": {
+            "path": "Files/File_1683055470268108_72466.png"
+        }
+    },
+    "1683055470319643:72490": {
+        "IFileManager": {
+            "path": "Files/File_1683055470319643_72490.png"
+        }
+    },
+    "1683055473219272:76543": {
+        "IFileManager": {
+            "path": "Files/File_1683055473219272_76543.pvr"
+        }
+    },
+    "1683055481416910:83949": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/Golden_Guadalupe/GoldenMary/Textures/Veil_Texture.png",
+                "hash": "431ad7b3c31d45dfe2cbd1a58111d5fe"
+            }
+        }
+    }
+}

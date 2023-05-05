@@ -1,0 +1,50 @@
+{
+    "1682013201734241:626907": {
+        "IResourceController": {
+            "name": "Praying_Mary_Statue",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682013206712679:628501",
+            "publicId": "1682013206787444:628522",
+            "expected_hash": "6713a737b1173ac096ed63c0ec560bb0",
+            "resources": [
+                "1682013205050869:627903",
+                "1682013205162031:627957",
+                "1682013206623823:628457"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "mary_pray",
+                        "v": "1682013205165016:627960"
+                    }
+                ]
+            }
+        }
+    },
+    "1682013206712679:628501": {
+        "IFileManager": {
+            "path": "Files/File_1682013206712679_628501.fbx"
+        }
+    },
+    "1682013206787444:628522": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/Golden_Guadalupe/Praying_Mary_Statue.fbx",
+                "hash": "6713a737b1173ac096ed63c0ec560bb0"
+            }
+        }
+    }
+}

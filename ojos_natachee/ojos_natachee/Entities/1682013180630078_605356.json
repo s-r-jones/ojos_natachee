@@ -1,0 +1,39 @@
+{
+    "1682013180496011:605321": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Hint Materials/loading_ring 3.lsmat",
+                "hash": "866f2e95fa67c979bf70ee198604e814"
+            }
+        }
+    },
+    "1682013180627407:605355": {
+        "IFileManager": {
+            "path": "Files/File_1682013180627407_605355"
+        }
+    },
+    "1682013180630078:605356": {
+        "IResourceController": {
+            "name": "loading_ring 3",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682013180630085:605357",
+            "fileId": "1682013180627407:605355",
+            "originalId": "1682013180760759:605393",
+            "publicId": "1682013180496011:605321",
+            "expected_hash": "5dbbe59459c13b3412c91ac4692a5ea4"
+        },
+        "IResourceManager": {
+            "uid": "1682013180630085:605357",
+            "name": "Files/File_1682013180627407_605355",
+            "flags": 1
+        }
+    },
+    "1682013180760759:605393": {
+        "IFileManager": {
+            "path": "Files/File_1682013180760759_605393.lsmat"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1683057300912305:1011254": {
+        "IFileManager": {
+            "path": "Files/File_1683057300912305_1011254.pvr"
+        }
+    },
+    "1683057300914154:1011255": {
+        "IResourceController": {
+            "name": "starfield_dif",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683057300915482:1011256",
+            "fileId": "1683057300912305:1011254",
+            "originalId": "1683057300916019:1011261",
+            "publicId": "1683057300958419:1011283",
+            "expected_hash": "f15ac6a2d86b32262edaa6e330f9c7f5",
+            "additional": {
+                "originHash": "5c00f6c76bfa3e5897ec52500e3538a9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683057300915482:1011256",
+            "name": "Files/File_1683057300912305_1011254.png",
+            "flags": 1
+        }
+    },
+    "1683057300915482:1011256": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "5c00f6c76bfa3e5897ec52500e3538a9"
+                    },
+                    "v": "1683057301308533:1011593"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "500000",
+                "compressedSize": "40968",
+                "extension": "png",
+                "originalRAM": "4000000",
+                "originalSize": "268044",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683057300939285:1011280"
+        }
+    },
+    "1683057300916019:1011261": {
+        "IFileManager": {
+            "path": "Files/File_1683057300916019_1011261.png"
+        }
+    },
+    "1683057300939285:1011280": {
+        "IFileManager": {
+            "path": "Files/File_1683057300939285_1011280.png"
+        }
+    },
+    "1683057300958419:1011283": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/SkyBox/starfield_dif.png",
+                "hash": "5c00f6c76bfa3e5897ec52500e3538a9"
+            }
+        }
+    },
+    "1683057301308533:1011593": {
+        "IFileManager": {
+            "path": "Files/File_1683057301308533_1011593.pvr"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1678401766429216:10358": {
+        "IResourceController": {
+            "name": "location_debug",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006688467238:10211",
+            "resources": [
+                "1678401766432559:10360",
+                "1682012979555183:523487"
+            ]
+        }
+    },
+    "1682006688467238:10211": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/location_debug"
+            }
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "1682009318000620:57683": {
+        "IFileManager": {
+            "path": "Files/File_1682009318000620_57683.jpg"
+        }
+    },
+    "1682009318002104:57684": {
+        "IResourceController": {
+            "name": "scaniverse_texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682009318003423:57685",
+            "fileId": "1682009318000620:57683",
+            "originalId": "1682009318004305:57690",
+            "publicId": "1682009318111907:57735",
+            "expected_hash": "024ac1631f27e87ccb2077cccb193f77",
+            "additional": {
+                "originHash": "177a6b41e22f79379222024e771a779c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682009318003423:57685",
+            "name": "Files/File_1682009318000620_57683.jpg",
+            "flags": 1
+        }
+    },
+    "1682009318003423:57685": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1024",
+                        "uncompressed_hash": "423fe4e909e45afb603697604e9455e4"
+                    },
+                    "v": "1682011072320253:925497"
+                },
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "423fe4e909e45afb603697604e9455e4"
+                    },
+                    "v": "1682009319843219:60825"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "167225",
+                "extension": "jpg",
+                "originalRAM": "16777216",
+                "originalSize": "681982",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682009318072396:57721"
+        }
+    },
+    "1682009318004305:57690": {
+        "IFileManager": {
+            "path": "Files/File_1682009318004305_57690.jpg"
+        }
+    },
+    "1682009318072396:57721": {
+        "IFileManager": {
+            "path": "Files/File_1682009318072396_57721.jpg"
+        }
+    },
+    "1682009318111907:57735": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/Scans/scaniverse_texture.jpg",
+                "hash": "177a6b41e22f79379222024e771a779c"
+            }
+        }
+    },
+    "1682009319843219:60825": {
+        "IFileManager": {
+            "path": "Files/File_1682009319843219_60825.jpg"
+        }
+    },
+    "1682011072320253:925497": {
+        "IFileManager": {
+            "path": "Files/File_1682011072320253_925497.jpg"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1682013205162031:627957": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682013206815362:628537",
+            "resources": [
+                "1682013205165012:627959"
+            ]
+        }
+    },
+    "1682013206815362:628537": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/Golden_Guadalupe/Praying_Mary_Statue/Materials"
+            }
+        }
+    }
+}

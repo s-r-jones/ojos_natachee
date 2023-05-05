@@ -14,7 +14,7 @@
             "uid": "1681927138805095:350291",
             "fileId": "1681927138802995:350289",
             "originalId": "1681927138805757:350296",
-            "publicId": "1681927138872237:350332",
+            "publicId": "1682006688657903:10254",
             "expected_hash": "1c0b4c4de9f6cf25a127fdd7cfad70e0",
             "additional": {
                 "originHash": "177a6b41e22f79379222024e771a779c"
@@ -70,14 +70,6 @@
             "path": "Files/File_1681927138850407_350319.jpg"
         }
     },
-    "1681927138872237:350332": {
-        "IResourceController": {
-            "public": {
-                "path": "../AdditionalFiles/Assets/models/Scaniverse 2023-04-18 141215/Materials/texture.jpg",
-                "hash": "177a6b41e22f79379222024e771a779c"
-            }
-        }
-    },
     "1681927139947876:352631": {
         "IFileManager": {
             "path": "Files/File_1681927139947876_352631.jpg"
@@ -86,6 +78,14 @@
     "1681927461507219:516262": {
         "IFileManager": {
             "path": "Files/File_1681927461507219_516262.pvr"
+        }
+    },
+    "1682006688657903:10254": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/scaniverse/Materials/texture.jpg",
+                "hash": "177a6b41e22f79379222024e771a779c"
+            }
         }
     }
 }

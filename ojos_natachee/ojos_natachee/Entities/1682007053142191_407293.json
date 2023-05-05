@@ -1,0 +1,24 @@
+{
+    "1682007053142191:407293": {
+        "IResourceController": {
+            "name": "textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007053142573:407294",
+            "resources": [
+                "1682006960406913:313272",
+                "1682006967054293:323689",
+                "1682007479727742:589124"
+            ]
+        }
+    },
+    "1682007053142573:407294": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/flowers/textures"
+            }
+        }
+    }
+}

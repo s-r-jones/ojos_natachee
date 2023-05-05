@@ -1,0 +1,20 @@
+{
+    "1682005474381924:10676": {
+        "IResourceController": {
+            "name": "glsl120",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006688466255:10209",
+            "resources": []
+        }
+    },
+    "1682006688466255:10209": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/segmentation_material 2/pass0/desktop/glsl120"
+            }
+        }
+    }
+}

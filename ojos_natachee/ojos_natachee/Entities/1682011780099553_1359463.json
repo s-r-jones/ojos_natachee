@@ -1,0 +1,39 @@
+{
+    "1682011780099553:1359463": {
+        "IResourceController": {
+            "name": "scaniverse_scan_correct_sizze",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682011780099362:1359444",
+            "fileId": "1682011780157024:1359506",
+            "originalId": "1682011804732830:1373382",
+            "publicId": "1682011780159899:1359507",
+            "expected_hash": "c75a0141b53517858d9a9038829ca9cc"
+        },
+        "IResourceManager": {
+            "uid": "1682011780099362:1359444",
+            "name": "scaniverse_scan",
+            "flags": 0
+        }
+    },
+    "1682011780157024:1359506": {
+        "IFileManager": {
+            "path": "Files/File_1682011780157024_1359506.oprfb"
+        }
+    },
+    "1682011780159899:1359507": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/Scans/scaniverse_scan_correct_sizze.oprfb",
+                "hash": "38cd7b4ae42404e229adf49df1489ec2"
+            }
+        }
+    },
+    "1682011804732830:1373382": {
+        "IFileManager": {
+            "path": "Files/File_1682011804732830_1373382.oprfb"
+        }
+    }
+}

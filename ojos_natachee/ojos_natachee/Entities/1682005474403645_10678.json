@@ -1,0 +1,20 @@
+{
+    "1682005474403645:10678": {
+        "IResourceController": {
+            "name": "includes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006688466742:10210",
+            "resources": []
+        }
+    },
+    "1682006688466742:10210": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/segmentation_material 2/pass0/includes"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682013174181462:597444": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/HelperScripts/Tween/folder 2.lock",
+                "hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        }
+    },
+    "1682013174182109:597445": {
+        "IFileManager": {
+            "path": "Files/File_1682013174182109_597445.lock"
+        }
+    },
+    "1682013174184177:597446": {
+        "IResourceController": {
+            "name": "folder 2",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682013174184189:597447",
+            "fileId": "1682013174182109:597445",
+            "publicId": "1682013174181462:597444",
+            "expected_hash": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "IResourceManager": {
+            "uid": "1682013174184189:597447",
+            "name": "Files/File_1682013174182109_597445.lock",
+            "flags": 1
+        }
+    }
+}

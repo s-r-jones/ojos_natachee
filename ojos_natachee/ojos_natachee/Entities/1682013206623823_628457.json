@@ -1,0 +1,30 @@
+{
+    "1682013206623823:628457": {
+        "IResourceController": {
+            "name": "Praying_Mary_Statue",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682013206623701:628439",
+            "fileId": "1682013206704379:628495",
+            "originalId": "1682014899131490:1388239",
+            "expected_hash": "aec5790343e961fae0f6e021d40433b3"
+        },
+        "IResourceManager": {
+            "uid": "1682013206623701:628439",
+            "name": "Praying_Mary_Statue",
+            "flags": 0
+        }
+    },
+    "1682013206704379:628495": {
+        "IFileManager": {
+            "path": "Files/File_1682013206704379_628495.oprfb"
+        }
+    },
+    "1682014899131490:1388239": {
+        "IFileManager": {
+            "path": "Files/File_1682014899131490_1388239.oprfb"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682012970411039:520581": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/CustomLocationController 2.js",
+                "hash": "3348ff2d8e2ab2542d04b4d567908068"
+            }
+        }
+    },
+    "1682012970411685:520582": {
+        "IFileManager": {
+            "path": "Files/File_1682012970411685_520582.js"
+        }
+    },
+    "1682012970413427:520585": {
+        "IResourceController": {
+            "name": "CustomLocationController 2",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682012970413439:520586",
+            "fileId": "1682012970411685:520582",
+            "publicId": "1682012970411039:520581",
+            "expected_hash": "3348ff2d8e2ab2542d04b4d567908068"
+        },
+        "IResourceManager": {
+            "uid": "1682012970413439:520586",
+            "name": "Files/File_1682012970411685_520582.js",
+            "flags": 1
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1683056969461082:793246": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683056970432982:793813",
+            "resources": [
+                "1683056969463149:793248"
+            ]
+        }
+    },
+    "1683056970432982:793813": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/SkyBox/starfield/Materials"
+            }
+        }
+    }
+}

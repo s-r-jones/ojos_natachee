@@ -1,0 +1,23 @@
+{
+    "1678401766424112:10354": {
+        "IResourceController": {
+            "name": "desktop",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682006688465774:10208",
+            "resources": [
+                "1682005474381924:10676",
+                "1682013174053503:597326"
+            ]
+        }
+    },
+    "1682006688465774:10208": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/segmentation_material 2/pass0/desktop"
+            }
+        }
+    }
+}

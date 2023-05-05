@@ -9,7 +9,7 @@
             "uid": "1643831937779475:905276",
             "fileId": "1675109495564849:2019",
             "originalId": "1675109495564851:2020",
-            "publicId": "1675109495565010:2101",
+            "publicId": "1682006688502072:10236",
             "expected_hash": "fcfcf84eede0e138fc2dc083cd4a0daa"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1675109495564851_2020"
         }
     },
-    "1675109495565010:2101": {
+    "1682006688502072:10236": {
         "IResourceController": {
             "public": {
                 "path": "Textures/Hint Textures/point_at_anim",
