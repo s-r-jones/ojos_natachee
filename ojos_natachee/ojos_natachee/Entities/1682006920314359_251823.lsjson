@@ -1,0 +1,39 @@
+{
+    "1682006920313144:251822": {
+        "IFileManager": {
+            "path": "Files/File_1682006920313144_251822"
+        }
+    },
+    "1682006920314359:251823": {
+        "IResourceController": {
+            "name": "M_Garden_Plants_Atlas",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682006920314362:251824",
+            "fileId": "1682006920313144:251822",
+            "originalId": "1682006920352248:251841",
+            "publicId": "1682006921132879:252367",
+            "expected_hash": "b65b597336611355c064b18304dddb66"
+        },
+        "IResourceManager": {
+            "uid": "1682006920314362:251824",
+            "name": "Files/File_1682006920313144_251822",
+            "flags": 1
+        }
+    },
+    "1682006920352248:251841": {
+        "IFileManager": {
+            "path": "Files/File_1682006920352248_251841.lsmat"
+        }
+    },
+    "1682006921132879:252367": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/flowers/meshes/SM_Garden_Plants_Rose_Climbing_03_C/Materials/M_Garden_Plants_Atlas.lsmat",
+                "hash": "9c3832cc05755e3a9b65d306a281ce2c"
+            }
+        }
+    }
+}

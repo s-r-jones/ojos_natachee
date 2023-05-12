@@ -1,0 +1,72 @@
+{
+    "1683840398042829:79806": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/texture.jpg",
+                "hash": "177a6b41e22f79379222024e771a779c"
+            }
+        }
+    },
+    "1683840398673722:79807": {
+        "IFileManager": {
+            "path": "Files/File_1683840398673722_79807.jpg"
+        }
+    },
+    "1683840398674664:79808": {
+        "IResourceController": {
+            "name": "texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683840398675389:79809",
+            "fileId": "1683840398673722:79807",
+            "originalId": "1683840398675974:79814",
+            "publicId": "1683840398042829:79806",
+            "expected_hash": "423fe4e909e45afb603697604e9455e4",
+            "additional": {
+                "originHash": "177a6b41e22f79379222024e771a779c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683840398675389:79809",
+            "name": "Files/File_1683840398673722_79807.jpg",
+            "flags": 1
+        }
+    },
+    "1683840398675389:79809": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "681982",
+                "extension": "jpg",
+                "originalRAM": "16777216",
+                "originalSize": "681982",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683840398719233:79815"
+        }
+    },
+    "1683840398675974:79814": {
+        "IFileManager": {
+            "path": "Files/File_1683840398675974_79814.jpg"
+        }
+    },
+    "1683840398719233:79815": {
+        "IFileManager": {
+            "path": "Files/File_1683840398719233_79815.jpg"
+        }
+    }
+}

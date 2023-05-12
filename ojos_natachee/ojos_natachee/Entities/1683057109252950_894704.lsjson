@@ -1,0 +1,39 @@
+{
+    "1683057109251656:894703": {
+        "IFileManager": {
+            "path": "Files/File_1683057109251656_894703"
+        }
+    },
+    "1683057109252950:894704": {
+        "IResourceController": {
+            "name": "Starfield_Unlit",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683057109252953:894705",
+            "fileId": "1683057109251656:894703",
+            "originalId": "1683057109285260:894727",
+            "publicId": "1683057109496781:894873",
+            "expected_hash": "25c4279a9b2c118c0649e3c3d50dc529"
+        },
+        "IResourceManager": {
+            "uid": "1683057109252953:894705",
+            "name": "Files/File_1683057109251656_894703",
+            "flags": 1
+        }
+    },
+    "1683057109285260:894727": {
+        "IFileManager": {
+            "path": "Files/File_1683057109285260_894727.lsmat"
+        }
+    },
+    "1683057109496781:894873": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/SkyBox/Starfield_Unlit.lsmat",
+                "hash": "3128e69e6d1bbf3e482ddffbcd28ef7f"
+            }
+        }
+    }
+}

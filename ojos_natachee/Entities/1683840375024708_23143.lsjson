@@ -1,0 +1,14 @@
+{
+    "1683840375024708:23143": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "resources": [
+                "1683840375025636:23145"
+            ]
+        }
+    }
+}

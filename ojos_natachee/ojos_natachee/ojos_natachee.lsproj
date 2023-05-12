@@ -21,7 +21,7 @@
         "lastSavedWith": {
             "type": "Public",
             "major": "4",
-            "minor": "43",
+            "minor": "46",
             "patch": "0",
             "build": "0"
         }
@@ -43,14 +43,14 @@
         },
         "Material::UiComponent": "",
         "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
             "hints": [
                 ""
             ],
             "lens": "Ojos Natachee",
             "applicability": "2",
-            "lens_descriptors": [
-                "EXPERIMENTAL_API"
-            ],
+            "lens_descriptors": "",
             "sg": "true",
             "git_friendly": "true",
             "Spectacles2021UseAllowed": "false"

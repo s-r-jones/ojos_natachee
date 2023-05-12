@@ -1,0 +1,39 @@
+{
+    "1682013205162872:627958": {
+        "IFileManager": {
+            "path": "Files/File_1682013205162872_627958"
+        }
+    },
+    "1682013205165012:627959": {
+        "IResourceController": {
+            "name": "mary_pray",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682013205165016:627960",
+            "fileId": "1682013205162872:627958",
+            "originalId": "1682013205236867:627984",
+            "publicId": "1682013206818323:628538",
+            "expected_hash": "b65b597336611355c064b18304dddb66"
+        },
+        "IResourceManager": {
+            "uid": "1682013205165016:627960",
+            "name": "Files/File_1682013205162872_627958",
+            "flags": 1
+        }
+    },
+    "1682013205236867:627984": {
+        "IFileManager": {
+            "path": "Files/File_1682013205236867_627984.lsmat"
+        }
+    },
+    "1682013206818323:628538": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/Golden_Guadalupe/Praying_Mary_Statue/Materials/mary_pray.lsmat",
+                "hash": "ea58eacda30a05a99b1bc5398492f8f1"
+            }
+        }
+    }
+}

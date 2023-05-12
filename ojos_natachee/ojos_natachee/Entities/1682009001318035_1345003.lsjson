@@ -1,0 +1,39 @@
+{
+    "1682009001315205:1345002": {
+        "IFileManager": {
+            "path": "Files/File_1682009001315205_1345002"
+        }
+    },
+    "1682009001318035:1345003": {
+        "IResourceController": {
+            "name": "guadalupe_scan_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682009001318040:1345004",
+            "fileId": "1682009001315205:1345002",
+            "originalId": "1682009001366257:1345025",
+            "publicId": "1682009003470953:1346176",
+            "expected_hash": "c01b287e05fac1badcbc900fcb755351"
+        },
+        "IResourceManager": {
+            "uid": "1682009001318040:1345004",
+            "name": "Files/File_1682009001315205_1345002",
+            "flags": 1
+        }
+    },
+    "1682009001366257:1345025": {
+        "IFileManager": {
+            "path": "Files/File_1682009001366257_1345025.lsmat"
+        }
+    },
+    "1682009003470953:1346176": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/Scans/natachee_scan/Materials/guadalupe_scan_mat.lsmat",
+                "hash": "f3b859d276bce5757be7926ef7cc3f08"
+            }
+        }
+    }
+}

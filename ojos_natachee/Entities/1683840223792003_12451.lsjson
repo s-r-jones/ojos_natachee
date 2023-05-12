@@ -1,0 +1,72 @@
+{
+    "1683840222100425:12449": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/flowers/textures/T_Garden_Plants_Rose_Atlas_C_BCO.tga",
+                "hash": "8ef3d6bc973ace7553fc3ab266c40bbe"
+            }
+        }
+    },
+    "1683840223790767:12450": {
+        "IFileManager": {
+            "path": "Files/File_1683840223790767_12450.png"
+        }
+    },
+    "1683840223792003:12451": {
+        "IResourceController": {
+            "name": "T_Garden_Plants_Rose_Atlas_C_BCO",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683840223797327:12452",
+            "fileId": "1683840223790767:12450",
+            "originalId": "1683840223801165:12457",
+            "publicId": "1683840222100425:12449",
+            "expected_hash": "d1e91a1043c8d974bf91ec72b87c5e57",
+            "additional": {
+                "originHash": "8ef3d6bc973ace7553fc3ab266c40bbe"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683840223797327:12452",
+            "name": "Files/File_1683840223790767_12450.png",
+            "flags": 1
+        }
+    },
+    "1683840223797327:12452": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "2",
+                "subtype": "9",
+                "type": "1"
+            },
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "5800452",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "5800452",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683840223897019:12458"
+        }
+    },
+    "1683840223801165:12457": {
+        "IFileManager": {
+            "path": "Files/File_1683840223801165_12457.tga"
+        }
+    },
+    "1683840223897019:12458": {
+        "IFileManager": {
+            "path": "Files/File_1683840223897019_12458.png"
+        }
+    }
+}

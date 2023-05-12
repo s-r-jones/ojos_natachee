@@ -1,0 +1,39 @@
+{
+    "1683840229506719:12519": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/flowers/rose_mat.lsmat",
+                "hash": "f3bcee2c0b4bff7dab4085dcce282551"
+            }
+        }
+    },
+    "1683840229538349:12545": {
+        "IFileManager": {
+            "path": "Files/File_1683840229538349_12545"
+        }
+    },
+    "1683840229538981:12546": {
+        "IResourceController": {
+            "name": "rose_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683840229538984:12547",
+            "fileId": "1683840229538349:12545",
+            "originalId": "1683840229555710:12551",
+            "publicId": "1683840229506719:12519",
+            "expected_hash": "b65b597336611355c064b18304dddb66"
+        },
+        "IResourceManager": {
+            "uid": "1683840229538984:12547",
+            "name": "Files/File_1683840229538349_12545",
+            "flags": 1
+        }
+    },
+    "1683840229555710:12551": {
+        "IFileManager": {
+            "path": "Files/File_1683840229555710_12551.lsmat"
+        }
+    }
+}

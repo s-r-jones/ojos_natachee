@@ -1,0 +1,39 @@
+{
+    "1683055679968990:205615": {
+        "IFileManager": {
+            "path": "Files/File_1683055679968990_205615"
+        }
+    },
+    "1683055679970595:205618": {
+        "IResourceController": {
+            "name": "Stars",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683055679970598:205619",
+            "fileId": "1683055679968990:205615",
+            "originalId": "1683055680004553:205640",
+            "publicId": "1683055680447131:205974",
+            "expected_hash": "91c8623c3ef4248caa524deb034eb3f7"
+        },
+        "IResourceManager": {
+            "uid": "1683055679970598:205619",
+            "name": "Files/File_1683055679968990_205615",
+            "flags": 1
+        }
+    },
+    "1683055680004553:205640": {
+        "IFileManager": {
+            "path": "Files/File_1683055680004553_205640.lsmat"
+        }
+    },
+    "1683055680447131:205974": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/Golden_Guadalupe/Stars.lsmat",
+                "hash": "10a4a472bba716749d4109e956582410"
+            }
+        }
+    }
+}

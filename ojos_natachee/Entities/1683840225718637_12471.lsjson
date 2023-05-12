@@ -1,0 +1,72 @@
+{
+    "1683840225624192:12469": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/flowers/textures/flower_MRA.png",
+                "hash": "70b4dd8280b3147e420a633ef025829c"
+            }
+        }
+    },
+    "1683840225717662:12470": {
+        "IFileManager": {
+            "path": "Files/File_1683840225717662_12470.png"
+        }
+    },
+    "1683840225718637:12471": {
+        "IResourceController": {
+            "name": "flower_MRA",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683840225723331:12472",
+            "fileId": "1683840225717662:12470",
+            "originalId": "1683840225727754:12477",
+            "publicId": "1683840225624192:12469",
+            "expected_hash": "70b4dd8280b3147e420a633ef025829c",
+            "additional": {
+                "originHash": "70b4dd8280b3147e420a633ef025829c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683840225723331:12472",
+            "name": "Files/File_1683840225717662_12470.png",
+            "flags": 1
+        }
+    },
+    "1683840225723331:12472": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "2",
+                "subtype": "9",
+                "type": "1"
+            },
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "4680965",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "4680965",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683840225815466:12478"
+        }
+    },
+    "1683840225727754:12477": {
+        "IFileManager": {
+            "path": "Files/File_1683840225727754_12477.png"
+        }
+    },
+    "1683840225815466:12478": {
+        "IFileManager": {
+            "path": "Files/File_1683840225815466_12478.png"
+        }
+    }
+}

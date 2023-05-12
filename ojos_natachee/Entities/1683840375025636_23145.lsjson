@@ -1,0 +1,30 @@
+{
+    "1683840375024923:23144": {
+        "IFileManager": {
+            "path": "Files/File_1683840375024923_23144"
+        }
+    },
+    "1683840375025636:23145": {
+        "IResourceController": {
+            "name": "M_Garden_Plants_Atlas",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683840375025640:23146",
+            "fileId": "1683840375024923:23144",
+            "originalId": "1683840375043530:23150",
+            "expected_hash": "b65b597336611355c064b18304dddb66"
+        },
+        "IResourceManager": {
+            "uid": "1683840375025640:23146",
+            "name": "Files/File_1683840375024923_23144",
+            "flags": 1
+        }
+    },
+    "1683840375043530:23150": {
+        "IFileManager": {
+            "path": "Files/File_1683840375043530_23150.lsmat"
+        }
+    }
+}

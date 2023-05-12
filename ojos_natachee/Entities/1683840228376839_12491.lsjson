@@ -1,0 +1,72 @@
+{
+    "1683840227609623:12489": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/flowers/textures/T_Garden_Plants_Rose_Atlas_MetallicSmoothness 1.tga",
+                "hash": "a4427f9fa35f6a5803587971ee5737ba"
+            }
+        }
+    },
+    "1683840228375696:12490": {
+        "IFileManager": {
+            "path": "Files/File_1683840228375696_12490.png"
+        }
+    },
+    "1683840228376839:12491": {
+        "IResourceController": {
+            "name": "T_Garden_Plants_Rose_Atlas_MetallicSmoothness 1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683840228378608:12492",
+            "fileId": "1683840228375696:12490",
+            "originalId": "1683840228380059:12497",
+            "publicId": "1683840227609623:12489",
+            "expected_hash": "7c5375f77030c223e24e317501a8f309",
+            "additional": {
+                "originHash": "a4427f9fa35f6a5803587971ee5737ba"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683840228378608:12492",
+            "name": "Files/File_1683840228375696_12490.png",
+            "flags": 1
+        }
+    },
+    "1683840228378608:12492": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "2",
+                "subtype": "9",
+                "type": "1"
+            },
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "2064178",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "2064178",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683840228445782:12498"
+        }
+    },
+    "1683840228380059:12497": {
+        "IFileManager": {
+            "path": "Files/File_1683840228380059_12497.tga"
+        }
+    },
+    "1683840228445782:12498": {
+        "IFileManager": {
+            "path": "Files/File_1683840228445782_12498.png"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1682006809314041:87461": {
+        "IFileManager": {
+            "path": "Files/File_1682006809314041_87461"
+        }
+    },
+    "1682006809315764:87462": {
+        "IResourceController": {
+            "name": "M_Garden_Plants_Atlas",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682006809315768:87463",
+            "fileId": "1682006809314041:87461",
+            "originalId": "1682006809351599:87480",
+            "publicId": "1682006809926201:87883",
+            "expected_hash": "b65b597336611355c064b18304dddb66"
+        },
+        "IResourceManager": {
+            "uid": "1682006809315768:87463",
+            "name": "Files/File_1682006809314041_87461",
+            "flags": 1
+        }
+    },
+    "1682006809351599:87480": {
+        "IFileManager": {
+            "path": "Files/File_1682006809351599_87480.lsmat"
+        }
+    },
+    "1682006809926201:87883": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/flowers/meshes/SM_Garden_Plants_Rose_01_A/Materials/M_Garden_Plants_Atlas.lsmat",
+                "hash": "3c61da4872be748c1fb0a53807765b7a"
+            }
+        }
+    }
+}

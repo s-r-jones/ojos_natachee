@@ -1,0 +1,23 @@
+{
+    "1683840219740525:12423": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/natachee_scan.fbm",
+                "hash": "4581312d95ef7311337f50049d904306"
+            }
+        }
+    },
+    "1683840219783365:12424": {
+        "IResourceController": {
+            "name": "natachee_scan.fbm",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683840219740525:12423",
+            "resources": [
+                "1683840220484947:12427"
+            ]
+        }
+    }
+}

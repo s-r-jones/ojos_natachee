@@ -1,0 +1,79 @@
+{
+    "1683840219783766:12425": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/natachee_scan.fbm/texture.jpg",
+                "hash": "177a6b41e22f79379222024e771a779c"
+            }
+        }
+    },
+    "1683840220483896:12426": {
+        "IFileManager": {
+            "path": "Files/File_1683840220483896_12426.jpg"
+        }
+    },
+    "1683840220484947:12427": {
+        "IResourceController": {
+            "name": "texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683840220485920:12428",
+            "fileId": "1683840220483896:12426",
+            "originalId": "1683840220486554:12433",
+            "publicId": "1683840219783766:12425",
+            "expected_hash": "9a68086ac13344ee676c58ee6989ee50",
+            "additional": {
+                "originHash": "177a6b41e22f79379222024e771a779c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683840220485920:12428",
+            "name": "Files/File_1683840220483896_12426.jpg",
+            "flags": 1
+        }
+    },
+    "1683840220485920:12428": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "423fe4e909e45afb603697604e9455e4"
+                    },
+                    "v": "1683840447761890:100094"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "508518",
+                "extension": "jpg",
+                "originalRAM": "16777216",
+                "originalSize": "681982",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683840220530358:12434"
+        }
+    },
+    "1683840220486554:12433": {
+        "IFileManager": {
+            "path": "Files/File_1683840220486554_12433.jpg"
+        }
+    },
+    "1683840220530358:12434": {
+        "IFileManager": {
+            "path": "Files/File_1683840220530358_12434.jpg"
+        }
+    },
+    "1683840447761890:100094": {
+        "IFileManager": {
+            "path": "Files/File_1683840447761890_100094.jpg"
+        }
+    }
+}

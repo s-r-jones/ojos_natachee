@@ -1,0 +1,25 @@
+{
+    "1683840220593393:12435": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/flowers",
+                "hash": "0fd68d68636757685ced765ebde6f4b8"
+            }
+        }
+    },
+    "1683840220790366:12436": {
+        "IResourceController": {
+            "name": "flowers",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683840220593393:12435",
+            "resources": [
+                "1683840220972194:12438",
+                "1683840229538981:12546",
+                "1683840229971334:12649"
+            ]
+        }
+    }
+}

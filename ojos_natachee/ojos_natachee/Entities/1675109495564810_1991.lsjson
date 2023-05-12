@@ -1,0 +1,39 @@
+{
+    "1675109495564810:1991": {
+        "IResourceController": {
+            "name": "segmentation_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644360372249950:332565",
+            "fileId": "1675109495564902:2050",
+            "originalId": "1675109495564904:2051",
+            "publicId": "1682006688462685:10203",
+            "expected_hash": "6e01d1b6ece89e2f1b3fe939a3e788fd"
+        },
+        "IResourceManager": {
+            "uid": "1644360372249950:332565",
+            "name": "Files/File_1675109495564902_2050",
+            "flags": 1
+        }
+    },
+    "1675109495564902:2050": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564902_2050"
+        }
+    },
+    "1675109495564904:2051": {
+        "IFileManager": {
+            "path": "Files/File_1675109495564904_2051.lsmat"
+        }
+    },
+    "1682006688462685:10203": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/segmentation_material.lsmat",
+                "hash": "fcaeb5c463686727edca9fd79444b430"
+            }
+        }
+    }
+}
