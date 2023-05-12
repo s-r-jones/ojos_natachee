@@ -14,7 +14,7 @@
             "uid": "1683911332859086:3872800",
             "fileId": "1683911332858194:3872798",
             "publicId": "1683911332859949:3872805",
-            "expected_hash": "6276ca034835dd41c4a53442b0f804fd"
+            "expected_hash": "bbde0dc322e5206df3a9fe3d3efd53c6"
         },
         "IResourceManager": {
             "uid": "1683911332859086:3872800",
@@ -26,7 +26,7 @@
         "IResourceController": {
             "public": {
                 "path": "Assets/scripts/TweenValue.js",
-                "hash": "6276ca034835dd41c4a53442b0f804fd"
+                "hash": "bbde0dc322e5206df3a9fe3d3efd53c6"
             }
         }
     }

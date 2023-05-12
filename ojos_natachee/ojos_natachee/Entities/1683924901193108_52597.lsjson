@@ -1,0 +1,30 @@
+{
+    "1683924901193108:52597": {
+        "IResourceController": {
+            "name": "cloud3",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1683924901193066:52587",
+            "fileId": "1683924901212257:52606",
+            "originalId": "1683926202902881:172335",
+            "expected_hash": "dfc545c7e1fba8cb4d4adafe640a2e0c"
+        },
+        "IResourceManager": {
+            "uid": "1683924901193066:52587",
+            "name": "cloud3",
+            "flags": 0
+        }
+    },
+    "1683924901212257:52606": {
+        "IFileManager": {
+            "path": "Files/File_1683924901212257_52606.oprfb"
+        }
+    },
+    "1683926202902881:172335": {
+        "IFileManager": {
+            "path": "Files/File_1683926202902881_172335.oprfb"
+        }
+    }
+}

@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Materials/segmentation_material.lsmat",
-                "hash": "fcaeb5c463686727edca9fd79444b430"
+                "hash": "b2ea0a925d41e9ffb04cb61c4bbcc2d9"
             }
         }
     }

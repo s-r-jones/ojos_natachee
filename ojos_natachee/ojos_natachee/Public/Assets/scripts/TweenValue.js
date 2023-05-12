@@ -286,7 +286,7 @@ function getCallbackFunction() {
         pass = script.materialMeshVisual.mainMaterial.mainPass;
       } else if (script.material) {
         pass = script.material.mainPass;
-        print('yes')
+
       }
       if (!pass) {
         print("[Tween Value], Warning, Please set Material ot Mesh Visual with Material");

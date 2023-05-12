@@ -15,7 +15,7 @@
             "fileId": "1683055679968990:205615",
             "originalId": "1683055680004553:205640",
             "publicId": "1683055680447131:205974",
-            "expected_hash": "91c8623c3ef4248caa524deb034eb3f7"
+            "expected_hash": "18d9f7f507d5d5dadb53e35ad7c542a7"
         },
         "IResourceManager": {
             "uid": "1683055679970598:205619",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Assets/models/Golden_Guadalupe/Stars.lsmat",
-                "hash": "10a4a472bba716749d4109e956582410"
+                "hash": "b5e09bf15fa9f1c860e78301047acd52"
             }
         }
     }

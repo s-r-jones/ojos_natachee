@@ -1,0 +1,35 @@
+{
+    "1683924900926365:49112": {
+        "IResourceController": {
+            "name": "cloud",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1683924900995915:49169",
+            "publicId": "1683924901000168:49172",
+            "expected_hash": "b8f0bf599d7af262bd3228348f517448",
+            "resources": [
+                "1683924900947485:49119",
+                "1683924900972719:49159"
+            ],
+            "additional": {
+                "ImportParams": "",
+                "materialMapping": ""
+            }
+        }
+    },
+    "1683924900995915:49169": {
+        "IFileManager": {
+            "path": "Files/File_1683924900995915_49169.obj"
+        }
+    },
+    "1683924901000168:49172": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/cloud.obj",
+                "hash": "b8f0bf599d7af262bd3228348f517448"
+            }
+        }
+    }
+}

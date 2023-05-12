@@ -1,0 +1,30 @@
+{
+    "1683924900972719:49159": {
+        "IResourceController": {
+            "name": "cloud",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1683924900972676:49149",
+            "fileId": "1683924900992670:49168",
+            "originalId": "1683926202884077:172329",
+            "expected_hash": "8df0c9c2da73bfc5deed40180d20044e"
+        },
+        "IResourceManager": {
+            "uid": "1683924900972676:49149",
+            "name": "cloud",
+            "flags": 0
+        }
+    },
+    "1683924900992670:49168": {
+        "IFileManager": {
+            "path": "Files/File_1683924900992670_49168.oprfb"
+        }
+    },
+    "1683926202884077:172329": {
+        "IFileManager": {
+            "path": "Files/File_1683926202884077_172329.oprfb"
+        }
+    }
+}

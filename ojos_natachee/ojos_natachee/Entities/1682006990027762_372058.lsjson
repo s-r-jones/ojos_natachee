@@ -15,7 +15,7 @@
             "fileId": "1682006990025123:372057",
             "originalId": "1682006990100837:372081",
             "publicId": "1682006991151362:372528",
-            "expected_hash": "f52aa7474823f51c82c38df063a3a0da"
+            "expected_hash": "6b3f292abfe351b863657ae0c421ffe0"
         },
         "IResourceManager": {
             "uid": "1682006990027767:372059",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Assets/models/flowers/rose_mat.lsmat",
-                "hash": "18a71ab06324d6075de3112f3dc231f7"
+                "hash": "87b51cac2b3b7c90a0ccd404bf65fb9b"
             }
         }
     }

@@ -1,0 +1,39 @@
+{
+    "1683924984614198:73374": {
+        "IFileManager": {
+            "path": "Files/File_1683924984614198_73374"
+        }
+    },
+    "1683924984615212:73375": {
+        "IResourceController": {
+            "name": "cloud_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683924984615224:73376",
+            "fileId": "1683924984614198:73374",
+            "originalId": "1683924984634827:73380",
+            "publicId": "1683924984930224:73477",
+            "expected_hash": "84bca2d16b9fbc283a027581215b4967"
+        },
+        "IResourceManager": {
+            "uid": "1683924984615224:73376",
+            "name": "Files/File_1683924984614198_73374",
+            "flags": 1
+        }
+    },
+    "1683924984634827:73380": {
+        "IFileManager": {
+            "path": "Files/File_1683924984634827_73380.lsmat"
+        }
+    },
+    "1683924984930224:73477": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/cloud_mat.lsmat",
+                "hash": "a0880d441791186e50dde93fb04231f8"
+            }
+        }
+    }
+}

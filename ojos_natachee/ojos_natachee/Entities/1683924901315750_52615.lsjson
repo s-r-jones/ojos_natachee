@@ -1,0 +1,79 @@
+{
+    "1683924901314796:52614": {
+        "IFileManager": {
+            "path": "Files/File_1683924901314796_52614.jpg"
+        }
+    },
+    "1683924901315750:52615": {
+        "IResourceController": {
+            "name": "cloud_tex",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683924901316367:52616",
+            "fileId": "1683924901314796:52614",
+            "originalId": "1683924901316715:52621",
+            "publicId": "1683924901333771:52623",
+            "expected_hash": "ad3a7a9811f600218adec3672601f286",
+            "additional": {
+                "originHash": "5cac56a13360e57c644dd52044e74460"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683924901316367:52616",
+            "name": "Files/File_1683924901314796_52614.jpg",
+            "flags": 1
+        }
+    },
+    "1683924901316367:52616": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "5cac56a13360e57c644dd52044e74460"
+                    },
+                    "v": "1683924901805737:56030"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "100391",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "219020",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683924901323974:52622"
+        }
+    },
+    "1683924901316715:52621": {
+        "IFileManager": {
+            "path": "Files/File_1683924901316715_52621.jpg"
+        }
+    },
+    "1683924901323974:52622": {
+        "IFileManager": {
+            "path": "Files/File_1683924901323974_52622.jpg"
+        }
+    },
+    "1683924901333771:52623": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/cloud_tex.jpg",
+                "hash": "5cac56a13360e57c644dd52044e74460"
+            }
+        }
+    },
+    "1683924901805737:56030": {
+        "IFileManager": {
+            "path": "Files/File_1683924901805737_56030.jpg"
+        }
+    }
+}
