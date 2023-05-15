@@ -15,7 +15,7 @@
             "fileId": "1683924984614198:73374",
             "originalId": "1683924984634827:73380",
             "publicId": "1683924984930224:73477",
-            "expected_hash": "84bca2d16b9fbc283a027581215b4967"
+            "expected_hash": "2dce8d7b051961efcc88ee083edc6029"
         },
         "IResourceManager": {
             "uid": "1683924984615224:73376",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Assets/models/cloud_mat.lsmat",
-                "hash": "a0880d441791186e50dde93fb04231f8"
+                "hash": "03c64663ef9c73d44416a3b469d4a4b7"
             }
         }
     }
