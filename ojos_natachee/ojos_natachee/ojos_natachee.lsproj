@@ -30,6 +30,96 @@
         "InspectorUiComponent": "",
         "MapUiComponent": {
             "mapPinPoints": {
+                "1649082416475574:107527": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082427199232:110271": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082439729750:113424": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082450030542:116090": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082460630816:118829": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082471244376:121575": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082481781800:124296": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082491465116:126851": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082504700263:130155": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649083114749264:286916": {
+                    "longitude": "-0.13116145133972168",
+                    "latitude": "51.512794494628906",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649083114749061:286915",
+                    "locationAsset": "1649083114749736:286917"
+                },
                 "1678466207840559:1983239": {
                     "longitude": "0",
                     "latitude": "0",
@@ -39,6 +129,10 @@
                     "pinUid": "-1:-1",
                     "locationAsset": "-1:-1"
                 }
+            },
+            "mapCurrentPosition": {
+                "x": "-0.131214619",
+                "y": "51.5132256"
             }
         },
         "Material::UiComponent": "",
@@ -76,7 +170,7 @@
                 "front_preview_is_favorite": "false"
             },
             "preview_ie_project_config": {
-                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Plane",
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
                 "front_preview_is_favorite": "false"
@@ -164,50 +258,6 @@
             "state": {
                 "objectToInfo": [
                     {
-                        "k": "1682013264175542:664015",
-                        "v": {
-                            "prefab": "1682013206623701:628439",
-                            "mapping": [
-                                {
-                                    "k": "1682013206615566:628415",
-                                    "v": "1682013264175542:664015"
-                                },
-                                {
-                                    "k": "1682013206618049:628419",
-                                    "v": "1682013264177106:664023"
-                                },
-                                {
-                                    "k": "1682013206619354:628421",
-                                    "v": "1682013264178162:664025"
-                                },
-                                {
-                                    "k": "1682013206620894:628428",
-                                    "v": "1682013264179271:664027"
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "k": "1682015088179106:1506413",
-                        "v": {
-                            "prefab": "1682011780099362:1359444",
-                            "mapping": [
-                                {
-                                    "k": "1682009024716411:1360452",
-                                    "v": "1682015088179106:1506413"
-                                },
-                                {
-                                    "k": "1682009024717675:1360460",
-                                    "v": "1682015088180524:1506421"
-                                },
-                                {
-                                    "k": "1682009024718488:1360462",
-                                    "v": "1682015088181678:1506423"
-                                }
-                            ]
-                        }
-                    },
-                    {
                         "k": "1683055516370099:111815",
                         "v": {
                             "prefab": "1683055481219179:83758",
@@ -243,46 +293,6 @@
                                 {
                                     "k": "1683055481218150:83747",
                                     "v": "1683055516381388:111932"
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "k": "1683056839338609:716236",
-                        "v": {
-                            "prefab": "1683055481219179:83758",
-                            "mapping": [
-                                {
-                                    "k": "1683055481212693:83715",
-                                    "v": "1683056839338609:716236"
-                                },
-                                {
-                                    "k": "1683055481214171:83717",
-                                    "v": "1683056839339870:716238"
-                                },
-                                {
-                                    "k": "1683055481214720:83719",
-                                    "v": "1683056839340640:716240"
-                                },
-                                {
-                                    "k": "1683055481215236:83721",
-                                    "v": "1683056839341321:716244"
-                                },
-                                {
-                                    "k": "1683055481216230:83732",
-                                    "v": "1683056839342227:716255"
-                                },
-                                {
-                                    "k": "1683055481216750:83734",
-                                    "v": "1683056839342853:716257"
-                                },
-                                {
-                                    "k": "1683055481217627:83745",
-                                    "v": "1683056839344439:716268"
-                                },
-                                {
-                                    "k": "1683055481218150:83747",
-                                    "v": "1683056839345147:716270"
                                 }
                             ]
                         }

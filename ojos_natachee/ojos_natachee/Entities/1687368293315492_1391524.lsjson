@@ -1,0 +1,33 @@
+{
+    "1687368293314556:1391523": {
+        "IFileManager": {
+            "path": "Files/File_1687368293314556_1391523.mp3"
+        }
+    },
+    "1687368293315492:1391524": {
+        "IResourceController": {
+            "name": "guadalupe_med",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687368293315504:1391525",
+            "fileId": "1687368293314556:1391523",
+            "publicId": "1687368293315899:1391530",
+            "expected_hash": "94f53d562b2d3b7488328549ffac7524"
+        },
+        "IResourceManager": {
+            "uid": "1687368293315504:1391525",
+            "name": "Files/File_1687368293314556_1391523.mp3",
+            "flags": 1
+        }
+    },
+    "1687368293315899:1391530": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/audio/guadalupe_med.mp3",
+                "hash": "94f53d562b2d3b7488328549ffac7524"
+            }
+        }
+    }
+}

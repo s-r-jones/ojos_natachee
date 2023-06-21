@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1683055479604376:82778",
             "fileId": "1683055479566081:82745",
-            "expected_hash": "53a30b2f57fd0b526f320e28e4d2c03e",
+            "expected_hash": "aaf9a08aff785497901628c21cf685f5",
             "additional": {
                 "info": {
                     "hasBlendShapes": "false",
@@ -50,10 +50,18 @@
     },
     "1683055479604376:82778": {
         "Compression::IController": {
-            "compressed_files": "",
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3645498929055699283",
+                        "uncompressed_hash": "53a30b2f57fd0b526f320e28e4d2c03e"
+                    },
+                    "v": "1687369038053069:1913650"
+                }
+            ],
             "infos": {
                 "compressedRAM": "13872",
-                "compressedSize": "7713",
+                "compressedSize": "3164",
                 "extension": "mesh",
                 "originalRAM": "13872",
                 "originalSize": "7713",
@@ -91,8 +99,8 @@
                             }
                         ]
                     },
-                    "isCompressed": "false",
-                    "type": "0"
+                    "isCompressed": "true",
+                    "type": "1"
                 }
             },
             "uncompressed_file": "1683055481283057:83874"
@@ -101,6 +109,11 @@
     "1683055481283057:83874": {
         "IFileManager": {
             "path": "Files/File_1683055481283057_83874.mesh"
+        }
+    },
+    "1687369038053069:1913650": {
+        "IFileManager": {
+            "path": "Files/File_1687369038053069_1913650.mesh"
         }
     }
 }

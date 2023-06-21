@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Assets/models/cloud_mat.lsmat",
-                "hash": "956120581db31c0e82b0dff551f34b92"
+                "hash": "03c64663ef9c73d44416a3b469d4a4b7"
             }
         }
     }

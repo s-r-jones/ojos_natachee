@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Materials/location_mesh_material.lsmat",
-                "hash": "09c6e8996943eebd3674a8b0c8e02be2"
+                "hash": "6a91bfc395f3996a64a9f548ef446aaf"
             }
         }
     }

@@ -1,0 +1,33 @@
+{
+    "1684955464557098:2349373": {
+        "IFileManager": {
+            "path": "Files/File_1684955464557098_2349373.js"
+        }
+    },
+    "1684955464558197:2349374": {
+        "IResourceController": {
+            "name": "CloudMove",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684955464558213:2349375",
+            "fileId": "1684955464557098:2349373",
+            "publicId": "1684955464559018:2349380",
+            "expected_hash": "69f1e11c45e623dca8b663791ce321bc"
+        },
+        "IResourceManager": {
+            "uid": "1684955464558213:2349375",
+            "name": "Files/File_1684955464557098_2349373.js",
+            "flags": 1
+        }
+    },
+    "1684955464559018:2349380": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/scripts/CloudMove.js",
+                "hash": "69f1e11c45e623dca8b663791ce321bc"
+            }
+        }
+    }
+}

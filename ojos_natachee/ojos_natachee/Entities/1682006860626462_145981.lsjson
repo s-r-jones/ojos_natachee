@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1682006860658736:145985",
             "fileId": "1682006860624300:145976",
-            "expected_hash": "b89f630f3663497c79368af7dc3aaee4",
+            "expected_hash": "ed7e37351d516bdcfa44db9b7d69d9e3",
             "additional": {
                 "info": {
                     "hasBlendShapes": "false",
@@ -63,15 +63,29 @@
             "compressed_files": [
                 {
                     "k": {
+                        "settings_hash": "2717716640711016236",
+                        "uncompressed_hash": "1836e092c205818b63d7484ca7e0961e"
+                    },
+                    "v": "1687366391032928:359921"
+                },
+                {
+                    "k": {
                         "settings_hash": "3645498929055699283",
                         "uncompressed_hash": "1836e092c205818b63d7484ca7e0961e"
                     },
                     "v": "1682011203577475:999977"
+                },
+                {
+                    "k": {
+                        "settings_hash": "8672115290797533747",
+                        "uncompressed_hash": "1836e092c205818b63d7484ca7e0961e"
+                    },
+                    "v": "1687366390702876:359712"
                 }
             ],
             "infos": {
                 "compressedRAM": "22770",
-                "compressedSize": "5606",
+                "compressedSize": "5644",
                 "extension": "mesh",
                 "originalRAM": "21090",
                 "originalSize": "15721",
@@ -79,7 +93,7 @@
                     "attributeFormat": "",
                     "draco": {
                         "colorBits": "8",
-                        "compressLvl": "7",
+                        "compressLvl": "9",
                         "normalBits": "8",
                         "posBits": "11",
                         "texBits": "10"
@@ -134,6 +148,16 @@
     "1682011203577475:999977": {
         "IFileManager": {
             "path": "Files/File_1682011203577475_999977.mesh"
+        }
+    },
+    "1687366390702876:359712": {
+        "IFileManager": {
+            "path": "Files/File_1687366390702876_359712.mesh"
+        }
+    },
+    "1687366391032928:359921": {
+        "IFileManager": {
+            "path": "Files/File_1687366391032928_359921.mesh"
         }
     }
 }

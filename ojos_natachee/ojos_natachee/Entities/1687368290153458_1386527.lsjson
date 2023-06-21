@@ -1,0 +1,33 @@
+{
+    "1687368290152465:1386526": {
+        "IFileManager": {
+            "path": "Files/File_1687368290152465_1386526.mp3"
+        }
+    },
+    "1687368290153458:1386527": {
+        "IResourceController": {
+            "name": "guadalupe_high",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687368290153471:1386528",
+            "fileId": "1687368290152465:1386526",
+            "publicId": "1687368290153840:1386533",
+            "expected_hash": "022ba189d5dedc4f7172bc288aa65097"
+        },
+        "IResourceManager": {
+            "uid": "1687368290153471:1386528",
+            "name": "Files/File_1687368290152465_1386526.mp3",
+            "flags": 1
+        }
+    },
+    "1687368290153840:1386533": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/audio/guadalupe_high.mp3",
+                "hash": "022ba189d5dedc4f7172bc288aa65097"
+            }
+        }
+    }
+}
